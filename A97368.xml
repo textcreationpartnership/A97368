@@ -1,0 +1,894 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of ringing. [etc. ; pt 2: Artificial fireworks; and The art of gardening] giving exact rules for ringing all sorts of plain changes and cross peals, with directions for pricking; also how to hang bells, with easie directions for every thing which necessarily belongs to that art. Also Artificial fireworks; being directions to order and make moulds, ... rockets, fisgigs, and other curiosities too tedious to mention likewise The art of gardening: giving an account of the tools, or instruments necessary therein; and also what is to be done every month in the year; as likewise how to order cattle, orchards and hop-gardens, &amp;c. To which is added, an excellent receipt to make a valuable liquor agreeable to all constitutions. By J. White, gent.</title>
+            <author>White, John, d. 1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680-1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97368</idno>
+            <idno type="STC">Wing W1787</idno>
+            <idno type="STC">ESTC R220952</idno>
+            <idno type="EEBO-CITATION">99832335</idno>
+            <idno type="PROQUEST">99832335</idno>
+            <idno type="VID">36808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2103:09; 2103:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of ringing. [etc. ; pt 2: Artificial fireworks; and The art of gardening] giving exact rules for ringing all sorts of plain changes and cross peals, with directions for pricking; also how to hang bells, with easie directions for every thing which necessarily belongs to that art. Also Artificial fireworks; being directions to order and make moulds, ... rockets, fisgigs, and other curiosities too tedious to mention likewise The art of gardening: giving an account of the tools, or instruments necessary therein; and also what is to be done every month in the year; as likewise how to order cattle, orchards and hop-gardens, &amp;c. To which is added, an excellent receipt to make a valuable liquor agreeable to all constitutions. By J. White, gent.</title>
+                  <author>White, John, d. 1671.</author>
+               </titleStmt>
+               <extent>[2], 34, [2], 34, 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Conyers, at the Ring in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date suggested by Wing: [1680?]; G. Conyers active in London, 1686-1713 (cf. Plomer).</note>
+                  <note>"Artificial fireworks" has separate general title page with the order of the first two titles reversed; "The art of gardening" has caption title. Each part has individual pagination and register.</note>
+                  <note>Caption title on p. 1 of "The art of ringing": Tintinalogia. Or, The art of ringing improv'd.</note>
+                  <note>A re-publication of some parts of: White, John.  A rich cabinet with variety of inventions.</note>
+                  <note>Copy stained affecting legibility.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fireworks --  England --  Early works to 1800.</term>
+               <term>Change ringing --  England --  Early works to 1800.</term>
+               <term>Recipes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36808:1"/>
+            <p>
+               <hi>Artificial Fireworks:</hi> BEING Directions to Order and Make <hi>Moulds, Rowlers, Rammers, Coffins, Compoſitions, Heading, Faſtening</hi> and <hi>Firing</hi> off <hi>Serpents, Rockets, Fiſgigs,</hi> and other <hi>Curioſities</hi> too tedious to mention</p>
+            <p>ALSO THE <hi>Art</hi> of <hi>Ringing:</hi> GIVING Exact Rules for Ringing all Sorts of <hi>Plain Changes</hi> and <hi>Croſs Peals,</hi> with Directions for <hi>Pricking;</hi> alſo how to hang Bells, with eaſie Directions for every Thing which neceſſarily belongs to that ART.</p>
+            <p>Likewiſe The ART of GARDENING: GIVING An Account of the Tools, or Inſtruments neceſ<g ref="char:EOLhyphen"/>ſary therein; and alſo what is to be done every <hi>Month</hi> in the <hi>Year;</hi> as likewiſe how to Order <hi>Cattle, Orchards</hi> and <hi>Hop-Gardens,</hi> &amp;c.</p>
+            <p>
+               <hi>To which is added,</hi> An excellent Receipt to make a valuable Liquor agreeable to all Conſtitutions.</p>
+            <p>By <hi>J. White,</hi> Gent.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for G. CONYERS, at the <hi>Ring</hi> in <hi>Little-Britain.</hi>
+            </p>
+            <p>Price Bound</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:36808:2"/>
+            <head>
+               <hi>Books Sold by</hi> G. C. <hi>at the</hi> Ring <hi>in</hi> Little-Britain.</head>
+            <p n="1">1. ONE Thouſand Notable Things in Garden<g ref="char:EOLhyphen"/>ing, Angling <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Phyſick, <hi>&amp;c.</hi> Of Dreams, Moles, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>prove Bees. To kill Buggs, Rats, Mic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and all other ſorts of Vermin. Take Spots out of Clo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths. The Vertue of <hi>Dul<g ref="char:EOLhyphen"/>lidge Waters.</hi> To make Wax, Wafers, <hi>Butler</hi>'s Ale. A Dialogue betwixt a Divine and a Beggar. Bp. <hi>Uſher</hi>'s Prophecy; and divers other Matters. <hi>Pr.</hi> 1 <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <p n="2">2. Art's Treaſury; ſhewing how to dye Silk, Hair, Cloth, Feathers, Ivory, Leather, <hi>&amp;c.</hi> To take Spots out of Cloth, Diaper, Linnen, <hi>&amp;c</hi> To make Perfumes. The Art of Drawing, Limning, Painting in Oyl, Etching, Graving, Enamelling. <hi>&amp;c.</hi> To make Clock work, colour Maps, and thicken Linnen. To gild Metals To make Ink, Dyals, <hi>&amp;c.</hi> To brew Pale and Fine Ale. <hi>Hocus Pocus,</hi> ſtrange Stories, and abundance of pleaſant Reading and Curioſities <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rice</hi> 1 <abbr>s.</abbr>
+            </p>
+            <p n="3">3. <hi>Hill</hi>'s Legerdemain; or, Natural and Artifici<g ref="char:EOLhyphen"/>al Concluſions to light a Candle at a Picture, make Fire fly out of a Pot of Water, to ſpit Fire, make Artificial Birds and Eggs fly in the Air. To walk on the Water. To take Fiſh; and make a Cat piſs out a Fire, or Speak To break a thick Rope with your Hands. To make Sport with Fowls To know when Perſons ſhall Marry. Phyſical Re<g ref="char:EOLhyphen"/>ceipts: With above 140 Sports and Paſtimes more. Adorn'd with Cuts. Price 1 <abbr>s.</abbr> 6 <abbr>d.</abbr>
+            </p>
+            <p n="4">4. The Compleat Vermin-killer; ſhewing how to deſtroy Rats, Mice, Weaſles, Moles, Ants, Fleas, Buggs. Lice, and all Vermin that infect Houſe, Garden, Field, or Orchard. Price 6 <abbr>d.</abbr>
+            </p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:36808:2"/>
+                  <head>THE SCHOOL OF <hi>Artificial</hi> FIREWORKS.</head>
+                  <div n="1" type="part">
+                     <head>1. <hi>The Ordering and making, in a true Propor<g ref="char:EOLhyphen"/>tion, the Moulds for</hi> Fireworks.</head>
+                     <p>
+                        <seg rend="decorInit">B</seg>Efore you proceed to the making of Rockets for Fire-works, it is requiſit to underſtand how to order, and make your Moulds and other Inſtruments for the ſame; and firſt for your Moulds, You muſt provide a piece of good dry Box, Holly, Walnut<g ref="char:EOLhyphen"/>tree, Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b Tree, or ſome ſuch like tough Wood, without Shakes or Knots; and when you have thus done, it is fit to know of what length and breadth you deſire to have your Mould, for fol<g ref="char:EOLhyphen"/>lowing this kind of proportion, all other ſorts of
+<pb n="2" facs="tcp:36808:3"/>Moulds are made great and ſmall, therefore you ought to have a Turner to turn and bore the ſame: As for Example: I would have the Hole of a Mould bored but an Inch diameter, or wide, then the length of the Mould muſt be ſix times ſo long as the Hole is wide (which is ſix Inches) and on each ſide of the Hole half an Inch thick: So that when the Mould is turned round, it is two Inches over in breadth When you have done this, you muſt have a bottom made and it is to be fitted therein.</p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>II. <hi>The order and making of Rowlers, Rammers, and other things for the Coffins.</hi>
+                     </head>
+                     <p>HAving provided your Mould, then you are to fit your Rowler, which muſt be two third parts of the breadth of the bore of the Mould, and the length thereof ſix Inches longer than the Mould, which is for rowling of your Paper, with a Hole to be bored in the bottom to receive a Wyre, which muſt be faſten'd in another piece of Wood ſome-what ſhorter, to take out at your plea<g ref="char:EOLhyphen"/>ſure, the uſe thereof ſhall be deſcribed, when I ſhall ſhew the order of making the Coffins.</p>
+                     <p>When you have fitted your Rocket, then pro<g ref="char:EOLhyphen"/>ceed to the making of your Rammers, which muſt always be two at the leaſt, for each ſeveral Mould as they increaſe in largeneſs, ſo you muſt be fitted with ſeveral Rammers, by reaſon of the taper Needle: Having fitted your Rammers, pro<g ref="char:EOLhyphen"/>vide a piece of Box, which muſt ſerve to make your whole Coffins, to put the work which you intend, on the Head of your Rockets.</p>
+                  </div>
+                  <div n="3" type="part">
+                     <head>III. <hi>How to order and make the Coffins of Paper.</hi>
+                     </head>
+                     <p>HAving explain'd the manner and form of the Moulds, with the other things belonging to the ſame; I will now ſhew the uſe of them in their ſeveral orders.</p>
+                     <pb n="3" facs="tcp:36808:3"/>
+                     <p>Provide you ſome good large ſtrong Paper for your work: And to know what length your Paper muſt be, let it be always the length of your Mould, ſo ſhall you have one Breadth left above the Mould the uſe whereof ſhall be ſhewed hereafter. Now having provided your Paper in length ready, take your rowler and one length of Paper, and be<g ref="char:EOLhyphen"/>gin to rowl; when you have rowled one Sheet, you muſt have a Board with a Handle, to roul it with, which muſt be done in this manner: You muſt hold the Rowler in your left Hand, and with your right Hand hold the Board by the Handle. and then lay down your Rowler upon ſome ſmooth Cheſt, or Table, which when you have done, rowl another length of Paper, and ſo proceed in rowling between every Sheet, untill you have rowled on ſo much, as will fill the Mould very ſtreight. When you have thus done, draw forth the Rowler about an Inch, and then take the other ſhort Rowler, and put it in, and there you ſhall have a place left for the choaking of the Rocket, of which is next following.</p>
+                  </div>
+                  <div n="4" type="part">
+                     <head>IV. <hi>The order and manner how you ſhall choak a Rocket.</hi>
+                     </head>
+                     <p>WHEN you are to choak a Rocket, you muſt have an Iron Hook, or a Staple driven in<g ref="char:EOLhyphen"/>to ſome Poſt, to which you muſt faſten your Cord, which muſt be bigger or leſs, according to the bigneſs of your Rocket, by reaſon that a ſmall Cord will not choak a great Rocket for want of Strength, and a great Cord will not ſerve for a ſmall one, in regard that it will make too great a choaking, ſo that you muſt have a bigger and a leſs; and when you have ſo done, you muſt tye one End of the Cord to the Hook or Staple, and at the other End, about a Yard off, tye a ſtrong Stick, in faſhion of a Swing, (it muſt be ſtrong, becauſe it bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eth the Weight of the Body,) which
+<pb n="4" facs="tcp:36808:4"/>when you have provided, put the Stick between your Leggs, and wind the Cord about the Rocket<g ref="char:EOLhyphen"/>cace in the place appointed, which muſt be be<g ref="char:EOLhyphen"/>tween the long Rowler and the ſhort; when that is done, girt it by degrees, ever turning the rowler, to the End it may come together more cloſe and neat; and when you have ſufficiently choaked it, draw forth your ſhort Rowler, and where the choaking is, tye it about with ſtrong Pack-thread, and then draw forth the Rowler, your Coffin is ready to be filled when occaſion ſerveth.</p>
+                  </div>
+                  <div n="5" type="part">
+                     <head>V. <hi>The manner of driving a Rocket, with the Inſtru<g ref="char:EOLhyphen"/>ments belonging thereunto.</hi>
+                     </head>
+                     <p>YOUR Coffin of Paper being ſiniſhed, take it, and with your hollow Rammer, force the ſame down cloſe into the Mould, and when you have done, ſtrike two or three hard blows to ſettle the Paper into its right form: Which being done, then you muſt fill the Coffin, in doing whereof you muſt have a care, providing a Mea<g ref="char:EOLhyphen"/>ſure which may contain the twentieth part of your whole Rocket; ſo by that means you ſhall not fail, but every Rocket ſhall have a true proportion alike: As for Example: I have a Coffin, which being filled, will hold an Ounce of mixture, or thereabout: Then I take the twentieth part, and when I find what quantity it is, I make a Mea<g ref="char:EOLhyphen"/>ſure of Horn or Latten which ſhall contain ſo much, and then I begin to fill my Coffin with one Meaſure at a time, and putting in my Ram<g ref="char:EOLhyphen"/>mer, I ſtrike four or five ſmart Blows with a good heavy Mallet, and then fill another Meaſure, and ſtrike again, ſo I continue till I come to the top of the Needle; then I take the ſaid Ram<g ref="char:EOLhyphen"/>mer, and ſo continue with it, till I come to the Top of the Mould: Now the Paper which is a<g ref="char:EOLhyphen"/>bove the Top of the Mould, muſt be turned down
+<pb n="5" facs="tcp:36808:4"/>and beaten hard: Which being done, the Rocket is finiſhed from the Mould, which being forced out with as much eaſe as you can, for the leſs you force it, (being filled, and the Needle taken out,) the better it is, for knocking looſens the Powder, and ſo cauſes the Rocket for to fail. You ſhould have a Funnel to fill your ſmall Rockets.</p>
+                  </div>
+                  <div n="6" type="part">
+                     <head>VI. <hi>Of the Compoſition and Receipts for your Rockets.</hi>
+                     </head>
+                     <p>HAving thus finiſhed your Rockets, it now reſts to know the Receipts: For in the ma<g ref="char:EOLhyphen"/>king of them, the chiefeſt thing to be regarded is, the Compoſition that they ought to be filled with<g ref="char:EOLhyphen"/>all: For as much as that which is proper to Rock<g ref="char:EOLhyphen"/>ets which are of leſs ſort, is very improper to thoſe which are of a greater Size: For the Fire being lighted in a great Concave, which is filled with a quick Compoſition, burns with great vio<g ref="char:EOLhyphen"/>lence: And ſo contrary, a weak Compoſition be<g ref="char:EOLhyphen"/>ing placed into a ſmall Concave, maketh no effect: Therefore we ſhall here deliver Rules and Direc<g ref="char:EOLhyphen"/>tions, which may ſerve for the true Compoſition, or matter wherewith you may charge any Rocket; from Rockets which are charged but with one Ounce of Powder, unto greater, which require for their Charge ten Pound of Powder: And here follows the Ingredients for ſeveral Rockets.</p>
+                     <p>
+                        <label>Firſt, for Rockets of one Ounce.</label> Unto each Pound of good Musket Powder bea<g ref="char:EOLhyphen"/>ten, put two Ounces of Small-Coal-Duſt, and with this charge the Rocket.</p>
+                     <p>
+                        <label>For Rockets of two or three Ounces.</label> Unto every four Ounces and a half of Powder-duſt, add an Ounce of Salt-petre, or to every four Ounces of Powder-duſt, add an Ounce of Coal-duſt.</p>
+                     <pb n="6" facs="tcp:36808:5"/>
+                     <p>
+                        <label>For Rockets of four Ounces.</label> Unto every Pound of Powder-duſt, add four Ounces of Salt-petre, and an Ounce of Coal-duſt, but to have it more flow, unto every ten Oun<g ref="char:EOLhyphen"/>ces of good Powder-duſt, add three Ounces of Salt Petre, and three Ounces of Coal-duſt.</p>
+                     <p>
+                        <label>For Rockets of five or ſix Ounces</label> Unto every Pound of Powder-duſt, add three Ounces and a half of Salt-petre, and two Ounces and a half of Coal-duſt, and an Ounce of Sul<g ref="char:EOLhyphen"/>phur, and an Ounce of File-duſt.</p>
+                     <p>
+                        <label>For Rockets of ſeven or eight Ounces.</label> Unto every Pound of Powder-duſt, add four Ounces of Salt-petre, and three Ounces of Sul<g ref="char:EOLhyphen"/>phur.</p>
+                     <p>
+                        <label>For Rockets of ten or twelve Ounces.</label> Unto the former Ingredients, add half an Ounce of Sulphur, and it will be ſufficient.</p>
+                     <p>
+                        <label>For Rockets of fourteen and ſixteen Ounces.</label> Unto every Pound of Powder-duſt, add four Ounces of Salt-petre, of Coal-duſt two Ounces and a quarter, of Sulphur and File-duſt, an Ounce and a quarter.</p>
+                     <p>
+                        <label>For Rockets of one Pound.</label> Unto every Pound of Powder-duſt, add three Ounces of Coal-duſt, and an Ounce of Sulphur.</p>
+                     <p>
+                        <label>For Rockets of two Pound.</label> Unto every Pound of Powder-duſt, add nine Ounces and a half of Salt-petre, of Coal-duſt two Ounces and a half, of File-duſt one Ounce and a half, and of Sulphur three quarters of an Ounce.</p>
+                     <p>
+                        <label>For Rockets of three Pound.</label> Unto every Pound of Salt-petre, add ſix Ounces of Coal-duſt, and of Sulpher four Ounces.</p>
+                     <pb n="7" facs="tcp:36808:5"/>
+                     <p>
+                        <label>For Rockets of four, five, ſix or ſeven Pound.</label> Unto every Pound of Salt-petre, add five Oun<g ref="char:EOLhyphen"/>ces and a half of Coal-duſt, and of Sulphur, two Ounces and a half.</p>
+                     <p>Here note, that in all great Rockets there is no Powder put, becauſe of the greatneſs of the Fire, which is lighted at once, which cauſeth too gr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> a violence, and therefore ought to be filled with a more weak Compoſition.</p>
+                     <p>Now when you have provided your Powder, you muſt firſt meal it, and then ſearce it, ſo that it may be free from any Corn, though never ſo ſmall. Likewiſe take good dry Coul, well burnt, and beat it to Duſt; ſearcing it very fine, which when you have done, mix them according as your occaſion requireth, and follow your Directions.</p>
+                  </div>
+                  <div n="7" type="part">
+                     <head>VII. <hi>The manner of heading a Rocket, with the order of capping it.</hi>
+                     </head>
+                     <p>IN the manner of heading a Rocket, you muſt uſe the thick Rowler, upon which you muſt rowl ſome Paper, or fine Paſte board, and paſte it ſo that it may ſtick very cloſe, and then choake it at the length of the thicker Part, ſo that it may come cloſe to your Stick in the leſſer Part, which will be fit to be tyed to the top of the Rocket: So ſhall you have a Coffin to put in your works, which muſt be of divers ſorts. This being done you muſt provide taper Caps, which muſt be join<g ref="char:EOLhyphen"/>ed to the top of the large Coffin: The uſe of them is to keep in your works, and to cauſe them to pierce the Air more ſwiftly. The manner of making theſe Caps, is to take a pair of Compaſ<g ref="char:EOLhyphen"/>ſes, and deſcribe a circle in a Paſte board, then cut it out with a pair of Sheers, and that will make two Caps being cut in he middle, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>urned one corner under the other, and ſo paſted: And let them ſo paſted, be put in a Napkin-preſs
+<pb n="8" facs="tcp:36808:6"/>'till they be dry, and when they be dry, cut out a half circle in Paper, which ſhall ſit round about the ſaid Cap, and ſhall ſerve to paſte on the Cap to the Coffin; ſo you have all things ready to the finiſhing of your Rocket.</p>
+                  </div>
+                  <div n="8" type="part">
+                     <head>8 <hi>The manner of faſtning a Rocket.</hi>
+                     </head>
+                     <p>HAving driven your Rocket, as I have ſhewed, with the Paper turned down, you muſt firſt prime it, which muſt be with cotten wick made for that purpoſe, which you muſt put into the Vent, leaving a piece to hang lower than the mouth of the Rocket by three or four Inches; which being done, tye a piece of Paper over the mouth, that is may not fall out. Now having primed your Rocket you may proceed to the heading of it, and that is done after this manner.</p>
+                     <p>Take your Rocket, and on the head you ſhould turn down the Paper, you muſt with a Bodkin pierce two or three holes, that when the Rocket hath ſpent it ſelf, the works which ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in the head may take fire; which holes prime with a little Pow<g ref="char:EOLhyphen"/>der-duſt, and then put on the head, with the choak<g ref="char:EOLhyphen"/>ing fitted to your Rocket, which muſt come over the ſame in ſuch manner, that the bottom of the greateſt part muſt come even with the top of the Rocket; which tye faſt to the Rocket with thread, and then put in your works; but before you put in your works, whether they be Stars, or any other works, you muſt put in a little cotton-wool, be<g ref="char:EOLhyphen"/>ing rouled in Powder-duſt, to make your Stars to take fire, or likewiſe may blow out: Having thus done, put in your Stars, or other works, and if you make more than one tire, (as you may do of your Stars) then you muſt put more Cotten rouled in Powder-duſt among them, or between every tire, that they may all take fire; then take your Cap, and fill the hollow place with Cotton, becauſe
+<pb n="9" facs="tcp:36808:6"/>it is light, and likewiſe will fire quickly; which be<g ref="char:EOLhyphen"/>ing fitted, paſte it cloſe to the top of the coffin that it may ſtand upright; then muſt you fit your ſtick, for the poiſing of your Rocket, which ought to be eight times the length of the Rocket without the head: You muſt get the ſmootheſt and lighteſt you can, ſuch as Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ket-makers uſe, and then cut one ſide of it flat at the great end, then make two notches on the round ſide, that the one be differing from the other, ſo much as is between the choaking of your Rocket, and the end of the Vent; for if you ſhould tye it upon the Vent it would looſen the Pow<g ref="char:EOLhyphen"/>der, cauſing it to break in the Firing: be careful that you tye not the wrong end of the Rocket upper<g ref="char:EOLhyphen"/>moſt, but tye that end downward that is choaked, and with a piece of thread that is ſtrong, tye it to the lower notch about the choaking. When you have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yed that, then tye the other higher, and let the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tick come even with the top of the Roket. Then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oyſe your Rocket, by laying it on your finger two or three Inches from the month; and if you find the ſtick be too heavy, cut it ſhorter, till you find your rocket to ballance your ſtick, for if the ſtick be too heavy, the rocket will be a ſlug, and being too light, the rocket will fall before it be half up. Theſe things being provided, you have your rocket ready to be fired, which muſt be after this manner following.</p>
+                  </div>
+                  <div n="9" type="part">
+                     <head>9 <hi>The manner of firing Rockets, with the deſcription of a Staff for the ſame.</hi>
+                     </head>
+                     <p>YOU muſt provide a long ſtaff with a Pike at one end, to be thruſt hard into the ground, with a three-legged ſtaff, having a hollow hoop at the top, to let this long ſtaff ſlide up and down, to the end that having Rockets whoſe ſticks are longer than the ſtaff, yet by raiſing it through the ſaid
+<pb n="10" facs="tcp:36808:7"/>Iron hoop, you may make it four or five foot longer than it would be ſtanding on the ground. Now this long ſtaffe muſt have a ſliding place cut with ſeveral points, which muſt be near the top; and at the bottom there muſt be a ring of Wyre, to let the ſtick go through, which muſt be made likewiſe to ſlide up and down, ſo thruſting the ſmall end through the ſaid Ring, your Rocket will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſt upon that part above, which muſt be juſt oppoſite in a ſtreight Line; ſo open the Mouth of your Rocket, and pull out the End of your Cotton-wick, and with a piece of Match faſtned in a Linſtock, give fire to the Wick, and by degrees you ſhall ſee it fire your Rocket; which ordered well, will mount very ſtreight and high. Thus having ſhewed the whole order of compoſing a Rocket, with firing of the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me, I will in the next place ſhew you the order for making of Stars, and other work<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, which are neceſſary for the heads of your Rockets.</p>
+                  </div>
+                  <div n="10" type="part">
+                     <head>X. <hi>Several Compoſitions for the ordering of Stars of ſeveral Colours.</hi>
+                     </head>
+                     <p>IF you will have your Stars of a blue Colour with red, then take eight Ounces of Powder mealed, of Salt-petre four Ounces, and of Sulphu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>vive twelve Ounces: Meal theſe very fine, and mix them together with two Ounces of Aqua<g ref="char:EOLhyphen"/>vitae, half an Ounce of the Oyl of Spike, and let it be dry before you uſe it.</p>
+                     <p>If you will have a beautiful white Fire, take four Ounces of Powder, twelve Ounces of Salt<g ref="char:EOLhyphen"/>petre, ſix Ounces of Sulphur-vive, and half an Ounce of Camphire: Meal your Ingredients and mix them. Now to powder your Camphire, you muſt uſe a braſs Mortar and a Peſtle, dipping it in Oyl of Almonds, ſo ſtirring it by degrees it will Powder, and then keep it cloſe from the Air till you uſe it, or the Camphire will loſe its Spi<g ref="char:EOLhyphen"/>rit.</p>
+                     <pb n="11" facs="tcp:36808:7"/>
+                     <p>If you will have a white Fire, and to laſt long, then take four Ounces of Powder, one Ounce of Salt-petre, eight Ounces of Sulphur vive, one Ounce of Camphire, and two Ounces of Oyl of Peter: meal thoſe which are to be mealed very fine, and mix them according to the former Directions.</p>
+                  </div>
+                  <div n="11" type="part">
+                     <head>XI. <hi>The order and manner of making the beſt ſort of Stars.</hi>
+                     </head>
+                     <p>HAving ſhewed the Compoſition for Stars, now I will ſhew you how to make them, which is thus: You muſt make little ſquare pieces of brown Paper, which fill with your Compoſition, and ſo double it down, rowling it till you make it ſomewhat round, about the bigneſs of a Nut or bigger, according to the ſize of the Rocket; you may put in a dozen on the head of a ſmall Rocket, binding them round with a Thread, and then draw a Cotten-wick through them, being prepared for priming.</p>
+                     <p>Alſo there is another way which is thus; take a ſmall Rowler, about the bigneſs of an Arrow, and roul a length of Paper about it, and paſte it round, letting it dry, and then you have a hollow trunk of this Paper, fill this with your Ingredi<g ref="char:EOLhyphen"/>ents, thruſting it hard till it be at the Top, and then cut it into ſhort pieces, about half an Inch long, and then in warm glew dip one of the Ends therein, and let them dry to the End that both Ends of your Stars fire not, and then put the o<g ref="char:EOLhyphen"/>ther End into Powder-duſt; you may put them on your Rocket, in one or two tires, putting in Powder-duſt between every tire, that they may all take Fire.</p>
+                     <p>The priming is thus made; Take Oyl of Cam<g ref="char:EOLhyphen"/>phire ſoaking Cotten-wick therein, and being moiſt rowl it in fine Powder-duſt, and then hang it up till it is thorow dry, and then keep it cloſe
+<pb n="12" facs="tcp:36808:8"/>from Air till you uſe it, or the ſpirit of the Cam<g ref="char:EOLhyphen"/>phire will decay.</p>
+                  </div>
+                  <div n="12" type="part">
+                     <head>XII. <hi>The order and making of other ſeveral Fire-works for the Rockets, as Serpents, or Fiſgigs, Reports, Golden and Silver Rain,</hi> &amp;c.</head>
+                     <p>THE Serpents or Fiſgigs, are made about tho bigneſs of ones little Finger, by rowl<g ref="char:EOLhyphen"/>ing a Paper upon a ſmall Stone, (as it was for your Stars) and choaking the Paper Coffin an Inch from the End, then fill it three Inches with Pow<g ref="char:EOLhyphen"/>der-duſt, and then choak it, and then put in a lit<g ref="char:EOLhyphen"/>tle Corn-powder, when your Serpents have played a while to and fro, it may break and give Re<g ref="char:EOLhyphen"/>port: You may fill it with the Star Mixture, and putting divers of them on the head of the large Rocket, they will firſt appear like Stars, and when the Stars are ſpent, take hold of the Powder-duſt, and they will run rigling to and fro like Serpents, and at laſt will give <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> many reports, very delight<g ref="char:EOLhyphen"/>ful to behold.</p>
+                     <p>The reports are made in their proper caſes as the Serpents are, but the Paper muſt be ſomewhat thicker, which will cauſe it to give the greater report: Theſe are to be filled with grain Powder, or half Powder and Star mixture.</p>
+                     <p>To make the Golden Rain, you muſt get ſtore of Gooſe Quills; and cut them off next the Fea<g ref="char:EOLhyphen"/>thers, and fill theſe Quills hard with the ſame Compoſition that is in your Rocket, and muſt be put on the head of the Rocket, with the open end downwards: If it were poſſible to put a thou<g ref="char:EOLhyphen"/>ſand of theſe Quills upon the head of a Rocket, it were a dainty ſight to ſee how pleaſantly they ſpread themſelves in the Air, and come down like ſtreams of Gold, much like the falling down of Snow, eſpecially if the Wind be any thing high.</p>
+                     <pb n="13" facs="tcp:36808:8"/>
+                     <p>If you will make ſilver Rain, it is performed as the other; only you muſt fill your Quills with the ſame Ingredients that you did your white Stars.</p>
+                  </div>
+                  <div n="13" type="part">
+                     <head>XIII. <hi>How to make your Fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e-works to run upon a line backward or forward.</hi>
+                     </head>
+                     <p>TAKE ſmall Rockets, and place the Tail of one to the Head of the other, tying a Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e to them to run on a Line ſoped; the line may be a Hundred Yards long or longer if you pleaſe, being well ſtretched and ſet on Stakes: And at laſt (if you pleaſe) may be placed a pot of Fire<g ref="char:EOLhyphen"/>works, which being fir'd will make good ſport; having Serpents and other things in it, which will variouſly intermixe themſelves in the Air, and up<g ref="char:EOLhyphen"/>on the Ground and every one will extinguiſh it ſelf with the report.</p>
+                  </div>
+                  <div n="14" type="part">
+                     <head>XIV. <hi>How to make a Wheel of Fire-works to run forward and backward upon the Ground.</hi>
+                     </head>
+                     <p>YOU muſt get a pair of light Wheels like ſpinning Wheels, both of a bigneſs, which muſt be faſten'd to a ſmall light axle-tree, in ſuch manner, that they may not move about the ſame, and on the middle of the axle-tree, faſten alſo a Fire-wheel, which muſt not be ſo big in compaſs as the two other Wheels, becauſe it muſt not touch the Ground, ſo that being faſt in the mid<g ref="char:EOLhyphen"/>dle upon the ſame axle-tree, it cannot run unleſs it carry the other Wheels with it; theſe being ſet on an even Ground, will run a great way without ceaſing: Now that you may make it re<g ref="char:EOLhyphen"/>turn back again when it has run its courſe for<g ref="char:EOLhyphen"/>ward, you may make your middle Wheel in ſuch manner, that it may have Rockets on both ſides, ſo that when one ſide is ſpent, it may give fire to the other ſide, the mouths of the Rockets be<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:36808:9"/>faſtned the contrary way will make a return with a ſwift motion.</p>
+                  </div>
+                  <div n="15" type="part">
+                     <head>XV. <hi>Another way for a ſingle Wheel to be placed on a Poſt to turn both ways.</hi>
+                     </head>
+                     <p>THIS may be performed with a ſingle Wheel, ſo that the Rockets may be placed on each ſide, (as in the other middle Wheel, with a Hole from the one ſide to the other for a vent; then place your Rockets firſt upon one ſide, but ſo that the laſt Rocket be placed over the ſaid Hole) and boring a ſmall Hole in one ſide of the laſt Rocket, put in a Cotten-wick for prim<g ref="char:EOLhyphen"/>ing, letting it come through the Hole in the Wheel, to the mouth of another Rocket, which ſhall be turned the contrary way on the other ſide: So that the Wheel having finiſhed its revo<g ref="char:EOLhyphen"/>lution on one way may take fire on the other ſide, making a retrograde motion: But if you place the Rockets all one way on both ſides, it will con<g ref="char:EOLhyphen"/>tinue twice ſo long as another of the ſame big<g ref="char:EOLhyphen"/>neſs.</p>
+                  </div>
+                  <div n="16" type="part">
+                     <head>XVI. <hi>The order to make a fixed Wheel, ſtanding upon a Poſt, giving divers reports.</hi>
+                     </head>
+                     <p>THere muſt be a Wheel turned two Foot wide, and out of the upper ſide muſt be a groof turned half an Inch wide, half an Inch deep; to which groof you muſt have a piece of Wood ſo f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ted, that it may juſt ſlide in; which piece of Wood muſt have ſo many ſmall Holes bored in it, as you will have reports about it, and be ſure you ſet them not too ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r together, leſt the Fire of one beat the other down; having thus provided your Wheel, you muſt make a con<g ref="char:EOLhyphen"/>veyance or hollow Trunk of Paper, which will juſt fill it, and fill the ſame with ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me of your
+<pb n="15" facs="tcp:36808:9"/>ſlow mixtures of Stars, and then putting on the cap of Wood ſo fitted with Holes, being made faſt with Glew, pierce every hole into your hollow con<g ref="char:EOLhyphen"/>veyance, ſo that putting a Quill into every one, they may take Fire, and to the Quill faſten a Report; ſo ſhall you have a peal of Chambers placed in a ſmall Room, which being once Fired, will follow in Order, till the whoſe Train be ſpent.</p>
+                  </div>
+                  <div n="17" type="part">
+                     <head>XVII. <hi>Another fixed Wheel upon a poſt, which will caſt forth many Rockets into the Air.</hi>
+                     </head>
+                     <p>THIS Wheel is not much unlike the former, which will give Fire to divers Rockets ſtand<g ref="char:EOLhyphen"/>ing circular, differing little from the former, only you muſt make a hole for every ſtick to paſs thorough, and therefore it muſt be made ſomewhat broader, which will work the like effect that the other doth, by conveying Fire from one Rocket to another, till they be all ſpent</p>
+                     <p>The mixture for this conveyance muſt be very ſlow, therefore uſe theſe Ingredients: Take eight Ounces of Roch-Peter, four Ounces of Sulphur-vive, half an Ounce of Camphire, two Ounces of fine Powder-duſt, and meal theſe very fine, and mingle them together, adding half a quarter of an Ounce of Linſeed Oyl, and as much of the Oyl of Peter, theſe Oyls muſt be dropped in by degrees, and ſo wrought up, till you find your mixture bound like Dough, and this is both ſlow and ſure.</p>
+                  </div>
+                  <div n="18" type="part">
+                     <head>XVIII. <hi>Another dainty fixed Wheel, which will caſt forth divers Fiſgigs, or Serpents, and as many Reports.</hi>
+                     </head>
+                     <p>YOU muſt have a Wheel turned with a groof on the top thereof to put in the conveyance of Paper, then fit on a piece of Wood (as it was before ſhewed) with ſmall Holes to put in Quills, which are for Firing your Reports, and muſt be
+<pb n="16" facs="tcp:36808:10"/>Placed round about the upper Part of your Wheel, and on the ſide thereof divers holes muſt be made of the bigneſs of your Fiſgigs, which muſt be pier<g ref="char:EOLhyphen"/>ced through to the Paper conveyance, thoſe Fiſgigs that are placed round on the ſides, and the Reports on the top, one Train will Fire them all; and in firing you ſhall ſee all the Fiſgigs flying round about, one after another as the Fire paſſeth to them; and for every Fiſgig which paſſeth out ſhall be fired a Report; ſo that there ſhall be a continued Motion until the whole Train be conſumed.</p>
+                  </div>
+                  <div n="19" type="part">
+                     <head>XIX. <hi>Of Night Combatants with Faulchions and Targets, Clubs, Maces,</hi> &amp;c.</head>
+                     <p>THIS is performed by two Men ſeeming to Fight, or to make way in a Throng of Peo<g ref="char:EOLhyphen"/>ple, the Clubs at the great Ends are made like a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ound Basket (or other Form) with wicker or ſmall Sticks on a Staff, which muſt be filled with Rockets in a ſpiral Form glued, and ſo placed, that they Fire but one after another: The Faulchions are made of Wood in a bowing manner, having large backs to receive many Rockets, the Heads of one near the Neck of another, glewed and faſtned well together, ſo that one being ſpent, the other may take Fire: The Targets are made of thin boards, which are challenged in ſpiral Eines to contain Pri<g ref="char:EOLhyphen"/>mers to Fire the Rockets one after another, which is all covered over with a thin covering of Wood or Paſte-board, bored with Holes ſpiral alſo, which Rockets muſt be glewed and made faſt to the Place of the Channels: Now if two Men have in each Hand a Target and a Faulchion, or a Mace of Fire, and ſeem to Fight, it will appear very plea<g ref="char:EOLhyphen"/>ſant to the Spectators; for by the Motion of Fight<g ref="char:EOLhyphen"/>ing, the Place will ſeem to be full of Streams of Fire. And there may be adjoyned to each Target a Son or burning Comer, with Launces of each
+<pb n="17" facs="tcp:36808:10"/>Fire, which will make them more beautiful and reſplendent in that Action.</p>
+                  </div>
+                  <div n="20" type="part">
+                     <head>XX. <hi>Another dainty one with Fiſgigs, called,</hi> Jack in a Box</head>
+                     <p>THE manner of making the fame is in this Order, cauſe a B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>x of Plate <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o be made about ſix Inches deep, and of what compaſs you pleaſe (with a Socket at the bottom to put in a Staffe) then putting in a quantity of Corn Powder, or Powder-Duſt in the bottom of the Box, you may fill it with Fiſgigs or Serpents, leaving a place in the middle for a Cane to go through the bottom, which Cane muſt be filled with a ſlow Receit, in which you muſt put a quantity of Camphire, but no Oyls, in regard of the narrow Paſſage it hath to burn, without any other vent, then put your Cane down, leaving it an Inch above the Box, and take a thick piece of Paſt-board cutting a Hole for the Cane <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o paſs through, and glew it cloſe to the Cane that the Fire paſs not through before its Time: This Paſte-board muſt be of ſufficient breadth to cover the Box quite over, then put it on a Staffe and Light your Cane, which will appear only like a Candle, and after a little ſpace of Time you ſhall hear a ſudden Noiſe, and ſee all thoſe Fiſgigs flying ſome ſome one way, and ſome another: This hath given good content to the Beholders you may if you pleaſe make Clubs or Maces of the ſame.</p>
+                  </div>
+                  <div n="21" type="part">
+                     <head>XXI. <hi>Of Pots of Fire for the Ground which will make the Air rebound with their Reports.</hi>
+                     </head>
+                     <p>MANY Po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s being fired together, do give a fine Repreſentation and Recreation to the Spectators; for thoſe Pots being filled with Balls of Fire, or flying Serpents for the Air, will ſo inter<g ref="char:EOLhyphen"/>mix one within another in flying here and there a little above the Ground, and giving ſuch a Volly
+<pb n="18" facs="tcp:36808:11"/>of Reports, that the Air will rebound with the Noiſe, and the whole Place be filled with ſundry Streams of pleaſant Fire; which Serpents will much trouble thoſe near the Place to defend themſelves in their upper Parts; and they will be no leſs buſi<g ref="char:EOLhyphen"/>ed by the Balls of Fire which will ſeem to annoy their Feet.</p>
+                  </div>
+                  <div n="22" type="part">
+                     <head>XXII. <hi>The making of a Fire-Ball from the Ground, which will be in continual Motion.</hi>
+                     </head>
+                     <p>YOU muſt get a Ball turned of ſome light Wood, and then let it be ſawn through the midſt with a thin Bow ſaw, then make on each ſide a hollow groof to lay in two Rockets (joyned together after the manner of the Runners) and then cloſe up your Ball with Glew; only in the Place where the two Rockets join ſhall be a groof, which muſt be paſted over with Paper, that the ſecond Rocket taking Fire may have a Vent, otherwiſe the Ball will ſerve but once, then Fire it and you ſhall ſee the Operation with pleaſure</p>
+                  </div>
+                  <div n="23" type="part">
+                     <head>XXIII. <hi>The making of a Ball for Water, which ſhall burn with great Violence.</hi>
+                     </head>
+                     <p>SOW a round Caſe of ſtrong Canvas, in ſhape of the caſe for a Foot-Ball, but ſomewhat leſ<g ref="char:EOLhyphen"/>ſer, and very round; having thus made your caſe, then proceed to the filling of it, which muſt be done in this manner: You muſt firſt put in three or four good ſpoonfuls of your mixture following, and with a Stick made round at one End, force it cloſe together, and ſo continue filling it, and be<g ref="char:EOLhyphen"/>tween every filling put in your Stick and force it together, round it continually in your Hand till you have finiſhed it; which having done, ſow it up cloſe, and then arm it with ſmall Cord, which is called Marling; after you have thus done, you muſt coat it with a quantity of Roſſin, Pitch and
+<pb n="19" facs="tcp:36808:11"/>Tallow to diſſolve, and dip your Ball all over in the ſame, provided that you leave two Vents to fire it, which muſt be pierced a third Part into your Ball, which muſt be ſtopped with two ſmall Sticks, till ſuch time that you come to uſe them then pul<g ref="char:EOLhyphen"/>ling forth the Sticks, fill the two Vents with fine Powder Duſt, and firing it, caſt it into the Water, and you ſhall have your deſire; but you muſt al<g ref="char:EOLhyphen"/>ways be ſure that your Ball be throughly fired be<g ref="char:EOLhyphen"/>fore you caſt it from you: The Receipt for this Ball followeth.</p>
+                     <p>Take one pound of Powder, eight ounces of Roch-water, four ounces of Sulphur, two ounces of Camphir, one ounce of Oyl of Peter, one ounce of Linſeed Oyl, half an ounce of Oyl of Spike, and two ounces of Colophonia.</p>
+                  </div>
+                  <div n="24" type="part">
+                     <head>XXIV. <hi>Another dainty Water Ball, which will ſhoot forth many Reports.</hi>
+                     </head>
+                     <p>THIS Ball muſt be made of Wood (as was ſhewed before) in two Pieces, becauſe you may joyn it cloſe together at Pleaſure, having ſmall Holes bored round about it to put in your Quills which juſtifie the Reports, which Reports, or Breakers muſt be made of Paper, choaked at both ends and primed through the midſt; they muſt be faſtened round with Pitch, and ſo covered round about, that no Water may paſs in: You muſt fill this Ball in two halfs, that you may force it very cloſe together, and when it's filled glew it faſt, and arm it well with nealed Wyer, then put in your Breakers, with a quill which muſt enter into the Ball, and likewiſe into the breaker.</p>
+                     <p>The Receipt for this Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l are theſe; Take one pound of Roch-Peter, four ounces of powder duſt, three ounces of Sulphur vive, two ounces of Cam<g ref="char:EOLhyphen"/>phire, one ounce of Linſeed Oyl, two ounces of Roſin, and one ounce of Oyl benedict; you muſt
+<pb n="20" facs="tcp:36808:12"/>powder thoſe Things which are to be powdred and mingle them all together, and by little and little ſprinkle your Oyls, till you have wrought it like Paſte, and then uſe it: The Quills muſt be filled only with Powder-Duſt, becauſe it muſt Fire ſuddenly.</p>
+                  </div>
+                  <div n="25" type="part">
+                     <head>XXV. <hi>How to make a Dragon, or the like, to run on the Line, ſpitting of Fire.</hi>
+                     </head>
+                     <p>THE body of the Dragon muſt be made either with Paſte board, or with fine Rods of wick<g ref="char:EOLhyphen"/>er, being hollow, with a place in the Belly to put in two Rockets and muſt be ſo ordered, that there may come a ſmall Pipe from the Tail of the one, to the Head of the other: Then make a Place for the Eyes and Mouth, to put into each Hole fire, which muſt be made up in rouled Paper, and thruſt in, then on the Top of the back, let there be faſten<g ref="char:EOLhyphen"/>ed two ſmall Pullies for a Line <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> which being done, your Dragon is finiſhed for firing, which muſt be thus<g ref="char:punc">▪</g> Firſt ſet it at the Eyes and Mouth, (always obſerving that this Receipt muſt be ſome ſlow mixture, ſuch as your Stars) then fire that Rocket which is placed with his Mouth towards the Tail of the Dragon, which will make it ſeem to caſt fire from thence till he come to the end of his Motion; and then on a ſudden (as a Creature wounded with ſome accident) ſhall return with fire coming forth of his Belly: This being well ordered, will give good Content to the Beholders of the ſame.</p>
+                  </div>
+                  <div n="26" type="part">
+                     <head>XXVI. <hi>The manner and form to repreſent St.</hi> George <hi>fighting with a Dragon in Fire, on the Line.</hi>
+                     </head>
+                     <p>WHEN you have formed your Figures of Paſte-board, or Wicket (as aforeſaid) you muſt make a hollow Trunk through the Body of each Figure, for a great Line to paſs through, and
+<pb n="21" facs="tcp:36808:12"/>likewiſe for a ſmaller Line to draw them to and fro from each other which muſt be faſtned in this man<g ref="char:EOLhyphen"/>ner; At the Breaſt of the Dragon let one end of one Cord be tied, which muſt paſs through the Body of the George, and turning it about a Pully at the other end, faſten it to the back of the George, and at the Breaſt of the George let another Cord be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed, which muſt paſs through the body of the Dragon (or a Trunk on the back) and ſo returning about a Pulley at that end, muſt be pulled ſtrait and faſtned to the Tail of the Dragon, ſo that as you turn that Wheel, the George and Dragon will run furiouſly at each other; and when you pleaſe, you may cauſe them to make a Retreat, and come on again: But by all means forget not to ſcope your Line extraordinary well, and likewiſe have a care that your Work be not too heavy above Line, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hat they may hang in an equal Ballance, otherwiſe they will turn their Heels upward, which will be a great diſgrace to the Work and Workmen: And thus much to the Ingenious I ſuppoſe will ſuffice.</p>
+                  </div>
+                  <div n="27" type="part">
+                     <head>XXVII. <hi>How to make a Whale, a Mermaid, or other to play and ſwim upon the Water.</hi>
+                     </head>
+                     <p>YOU may make Figures of what Shape your fancy beſt pleaſeth; The Body muſt be made of light wicker Rods, and in the midſt of the Body let there be placed an Axle-Tree, having two Wheels coming into the Water, yet ſo as they may not be ſeen: Theſe Wheels muſt be made hollow, to contain a quantity of Sand or Water: The uſe of it is to keep the Body of your Figure upright, and able to ſink it ſo far into the Water as is need<g ref="char:EOLhyphen"/>ful, and likewiſe to make it ſwim more ſteady: Note that theſe Wheels muſt be looſe, and the Axle-Tree faſt: In the midſt of this Axle-Tree, place three or four great Rockets one by another, with their Mouths all one Way: Yet ſo provided that
+<pb n="22" facs="tcp:36808:13"/>there may be ſuch a diſtance between each Rocket, that there may come a Vent from the Tail of the firſt to the Mouth of the ſecond, and from the ſecond to the third<g ref="char:punc">▪</g> And to the end that it may continue the longer in Motion, you may place di<g ref="char:EOLhyphen"/>vers Lights about the Body, to make it the more beautiful; every of which Lights extinguiſhing ſhall give a Report, and ſo conclude. There are divers other fine Works to be performed on the Waters, which a judicious Artiſt may invent.</p>
+                  </div>
+                  <div n="28" type="part">
+                     <head>XXVIII. <hi>Of divers other rare Works, which are to be performed on the Water.</hi>
+                     </head>
+                     <p>THOSE places which are ſituated upon Ri<g ref="char:EOLhyphen"/>vers or great Ponds, are proper to make theſe Recreative Fires on; therefore if you deſire to make ſome of conſequence, they ought to be built upon Boats, or light Timber, which may be framed like Beaſts, or Fiſhes ſpitting of Fire; upon which may be built Caſtles, Pageants, Turrets, or other Conceits as you pleaſe. As if you would preſent a Caſtle, out of which ſhall iſſue a Dragon, which ſhall ſwim through the Water, and that Dragon be encountred by a Horſeman, which is thus performed. Cauſe a Caſtle to be framed on light Timber, and let the bottom of the Door of the Caſtle with a ground Plat be two Foot under the brim of the Water, (the Reaſons follow) and at a Foot high within the Caſtle let there be a certain Line tyed which may paſs thro' the Body of the Dragon, and may be faſtened near the Shoar, where muſt be a float ſunk ſo far under Water, that the Line may not be perceived; then faſten on your Dragon (as was ſhewed before for the Line) but ſo that the Head of this may always be above the Line, whereas the other was under then at the appointed time, there muſt be one ready within the Caſtle, to Fire thoſe Parts of the Dra<g ref="char:EOLhyphen"/>gon
+<pb n="23" facs="tcp:36808:13"/>which is requiſite; which being done (by the help of the Pulleys) ſhall paſs it through the Wa<g ref="char:EOLhyphen"/>ter, which ſo ſoon as it preſents itſelf, <hi>Neptune</hi> on a Sea Horſe ſhall come, and encounter the ſaid Dragon, and at laſt ſhall overcome it: Or you may order the work ſo that which you pleaſe ſhall have the Victory; for that which keepeth Fire longeſt, is ſuppoſed to have the beſt, and that which is ſooneſt ſpent, to have the worſt.</p>
+                     <p>You may if you pleaſe, build upon Boats, or Timber, Turrets, Pageants, or Caſtles, as is, ſaid, to receive or hold diverſity of Fireworks that may be made within them, which may play out, and play divers Fires, as Reports, Stars Golden Rain, Fiſgigs, Granadoes, and Balls of Fire to burn in the Water, which will give great content to the Eyes of the Beholders; and in the concluſion, it may be ſo ordered, that they Fire one another, for which End they were made.</p>
+                  </div>
+                  <div n="29" type="part">
+                     <head>XXIX. <hi>The manner to compoſe a Ship of Fire works, which being once fired, divers Motions will preſent themſelves.</hi>
+                     </head>
+                     <p>YOU muſt make a Mould or Body of a Ship to be made, that you may take off the upper Deck, to place ſome Works underneath, where you muſt have a Fire-wheel placed with a Screw on the Axle-Tree; this Wheel muſt be placed in the Stern, and muſt turn a rouler, on which muſt be two girts placed that muſt paſs on each ſide of the Main Maſt, and ruin on to the Foreſhip; in this Wheel there muſt be a hollow ſpoke and Axle-tree, as I have ſhewed, which muſt be ſo ordered, that the Wheel being ſpent, it may convey Fire to a tire of Guns, lying round about, which muſt be fired with a cloſe Conveyance; and having paſſed that, it muſt take hold of another Conveyance which ſhall give fire to certain Rockets, which muſt
+<pb n="24" facs="tcp:36808:14"/>be placed in the Body of ſome Figures repreſenting Mariners, and muſt be ſo fitted; that they may have a Cane joyned to their Body to guide them, that they may run on the Ropes from the Deck to the top of the Maſts. This and other the like may be performed with great facility.</p>
+                  </div>
+                  <div n="30" type="part">
+                     <head>XXX. <hi>Of Launces of Fire for Pleaſure and for Service.</hi>
+                     </head>
+                     <p>STanding Launces are commonly made with hol<g ref="char:EOLhyphen"/>low Wood, to contain ſundry Petards or Rock<g ref="char:EOLhyphen"/>ets; theſe Lances may be faſtened to Poſts, ſo that they may not be overthrown in the flying out of the Rockets or Petards: But there are a leſſer ſort of Launces, whoſe Caſes are of three or four fold<g ref="char:EOLhyphen"/>ings of Paper of a foot long, and about the bigneſs of ones Finger: The compoſition wherewith theſe Launces muſt be filled is this; Unto every four ounces of Powder you muſt add two Ounces of Salt-Peter, and unto that add one Ounce of Sul<g ref="char:EOLhyphen"/>phur; and then it will make a brick Fire red colour before it be half ſpent, if the Launce be fired and held to it: Now if Twenty ſuch Launces were placed about a great Rocket, and ſhot to a Houſe or Ship, it would produce a miſchievous Effect.</p>
+                     <p>Or, if unto the End of the Rocket there were faſtened an Arrow (which muſt not be too heavy) and inſtead of the Feathers, it ſhould be of thin white Tin Plate, and if you give Fire to it, being thus prepared, you may ſee how ſerviceable it will prove. To the Head of ſuch Rockets may be pla<g ref="char:EOLhyphen"/>ced Petards, Balls of Fire, Granadoes, and the like, and ſo may be applied to warlike Affairs.</p>
+                  </div>
+                  <div n="rules" type="part">
+                     <pb n="25" facs="tcp:36808:14"/>
+                     <head>Short, but certain <hi>RULES</hi> for the Making all Sorts of Fire works for Recreation, as Rockets, Fifgigs, Runners on the Line, Serpents, Stars, Fire-Wheels, Clubs, Jack in a Box, <hi>&amp;c.</hi> To<g ref="char:EOLhyphen"/>gether with the Quantity of all the Ingredients thereunto belonging, and the manner of Com<g ref="char:EOLhyphen"/>pounding them.</head>
+                     <div type="section">
+                        <head>How to compoſe a Caſtle of Fire-works with ſmall Charge, that in the Fireing will yield as much Variety, and give as much content as any.</head>
+                        <p>IN all Things actual, a certain Method is re<g ref="char:EOLhyphen"/>quiſite to be obſerved. Therefore, ſuch as in<g ref="char:EOLhyphen"/>tend to put in Practice theſe enſuing Inſtructions, are firſt to provide themſelves of ſuch Rocket Moulds as are ſuitable to the Work they undertake. The Deſcription and Proportion of them, I conceive ſomewhat needleſs, in regard any one may be fur<g ref="char:EOLhyphen"/>niſhed in <hi>London</hi> with what Sizes they pleaſe. This being premiſed, I ſhall begin with</p>
+                     </div>
+                     <div type="section">
+                        <head>Fiſgigs, by many called Serpents.</head>
+                        <p>THE beſt way of making them is thus: Ha<g ref="char:EOLhyphen"/>ving provided a ſmall Mould with a Needle, make a Coffin of Paper fit for it, which choak half an Inch from the end; then put it in your Mould, and fill up three Inches with Powder-duſt only, finely beaten and ſifted, then choak it again, and afterwards fill it about an Inch with Corn-powder, then choak it cloſe, and your Fiſgig is prepared. To uſe theſe on the tops of great Rockets put in<g ref="char:EOLhyphen"/>to the Mouths of them, ſome of the Compoſition for Stars, which will ſhew very delectable to the
+<pb n="26" facs="tcp:36808:15"/>Spectators; for after they have continued a good ſpace in the Form and Manner of Stars, they will then riggle to and fro, like ſo many flying Ser<g ref="char:EOLhyphen"/>pents: Of theſe Fiſgigs moſt ſorts of Fire-works are compoſed. When you can perfectly make theſe, you may then proced to the making</p>
+                     </div>
+                     <div type="section">
+                        <head>Runners on a Line.</head>
+                        <p>AND for them is likewiſe requiſite a Mould, five Inches long without a Needle: Firſt make your Coffin of Paper, choak it at the end as before, then put it in your Mould, and fill it four Inches with Powder-duſt: (N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>te that in the filling it you muſt put in but a little at a time and ramm it down cloſe, and ſo of all others) Then choak it, and fill the reſt of it with Corn powder (to give a Report) leaving only ſo much of the Coffin void as will ſerve to choak it. This being done, tye it to a hol<g ref="char:EOLhyphen"/>low Cane three Inches long; ſo as in tying of it you do not bruiſe the Rocket. And ſo have you a ſingle Runner for the Line finiſhed.</p>
+                        <p>If you deſire to have a double one to run for<g ref="char:EOLhyphen"/>wards, and back again, you muſt then be provided with two Runners made after the manner of the former, only one to be an Inch longer than the other: And to finiſh theſe, uſe this Method. Firſt tye the long Rocket to the Cane, and at the Mouth of it faſten the Breach of the ſhort one, by rouling over them a little piece of Paper, with ſome Pow<g ref="char:EOLhyphen"/>der-duſt in it to give fire to the long one, not for<g ref="char:EOLhyphen"/>getting to make a ſmall hole in the Breech of the ſhort one with a Bodkin, that ſo the long one may take fire: Having done ſo, then turn back the ſhort Rocket ſo, that the Mouth of it may reach ſome<g ref="char:EOLhyphen"/>what further than the Breech of the long one; leſt in firing it you accidentally fire both, and by that means ſpoil your Runners: The beſt way of tyeing the double ones is to faſten the ſhort one ſo, as
+<pb n="27" facs="tcp:36808:15"/>the long one may be betwixt it and the Cane; for by that means it will run without ſwagging; whereas, if they be both joyned to the Cane, as Mr. <hi>Bates,</hi> and ſome others direct, it is both unſafe, and uncertain; unſafe in this, in caſe the firſt ac<g ref="char:EOLhyphen"/>cidentally break the other with the force of it will be ſtruck off; and uncertain it is likewiſe, in regard after the firſt Rocket is ſpent, the Coffin of it coming back will ſwag and retard the Paſſage of the other, and by that means indanger burning of the Line. Let your Line be well rubbed with Soap; which will both ſecure it from fire and facilitate the Paſſage of the Runner: Likewiſe for theſe and all other, let your Powder duſt be beaten, and ſift<g ref="char:EOLhyphen"/>ed very ſmall, for the leaſt Corns in it may danger the breaking.</p>
+                     </div>
+                     <div type="section">
+                        <head>How to compoſe a Wheel.</head>
+                        <p>FIRST provide a Wheel, either round or ſquare, the better ſort are eight ſquare, made fit to the length of the Rocket, five Inches each, the beſt proportion is about ſixteen Inches diameter. Now having provided a Wheel, take ſo many Rockets, made after the ſame manner as thoſe are which run on the Line, which you muſt faſten together, by joyning the Mouth of the one to the Breech of the other, in the ſame manner as thoſe for the Line; in the tying them on, have a care you do not bruiſe them, and be ſure to leave ſome ſpace betwixt the Mouth of the firſt, and the Breech of the laſt, that ſo by firing the firſt, the laſt may not take, and by that means breed a confuſion.</p>
+                        <p>You may order theſe Wheels to burn either Ho<g ref="char:EOLhyphen"/>rizontal or Vertical: For the Horizontal provide a Poſt or Staff, with a pin on the top of it to put the Wheel on; if vertical, then provide a pin faſtened to the Side.</p>
+                     </div>
+                     <div type="section">
+                        <pb n="28" facs="tcp:36808:16"/>
+                        <head>How to make a Club to caſt forth divers Fiſg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gs.</head>
+                        <p>TO do this, firſt cauſe a piece of Wood to be turned four Inches Diameter, let it be bored with an Augur of an Inch and half bore from the top towards the bottom, leaving the bottom ſome<g ref="char:EOLhyphen"/>what above an Inch thick, and a place underneath to faſten a Staff in; the length of it may be about eighteen Inches: Then draw a Line ſpiral way about it from the bottom to the top in manner of a Screw, each Line an Inch and half aſunder, in that Line bore ſmall Holes an Inch aſunder; within half an Inch of the bottom, and then pierce it through with a Piercer; let your Holes be of that bigneſs fit to contain a Fiſgig, and make them ſomewhat ſlopeways, that ſo the Fiſgig may ſtand faſt, tho' ſlack, otherwiſe they will not come eaſi<g ref="char:EOLhyphen"/>ly forth.</p>
+                        <p>Load your Club or Trunck with the compoſition following, and then put in your Fiſgig made as before, priming each of them, and likewiſe each Hole with powder-duſt, then fire your Club at the top, and they will fire one after another, and fly about in a confuſed manner.</p>
+                        <div type="subsection">
+                           <head>The Compoſition for this Club is.</head>
+                           <p>Roch Peter eight Ounces, Sulphur vivum four ounces, Powder-duſt two ounces, Camphire one ounce, Linſeed Oyl half an ounce; beat and mix theſe according to the order preſcribed in the com<g ref="char:EOLhyphen"/>poſitions following.</p>
+                        </div>
+                     </div>
+                     <div type="section">
+                        <head>To make Rockets for the Air.</head>
+                        <p>PRovide firſt a good Mould of what ſize you pleaſe, with a Needle in it, and a Rowler with two Rammers, the one hollow for the Needle and the other ſolid, to ram it after the Needle is co<g ref="char:EOLhyphen"/>vered. Having made a good ſtrong Coffin of Pa<g ref="char:EOLhyphen"/>per
+<pb n="29" facs="tcp:36808:16"/>fit for the Mould, and choaked as before, then fill it with the compoſition for that ſize your Roc<g ref="char:EOLhyphen"/>ket is of, the ſeveral Proportions and Mixtures hereafter follow. To fill it, take a little Tin ſcope, and put in about the twentieth part of the quan<g ref="char:EOLhyphen"/>tity it holds, and then ram it with your hollow Rammer, and ſo continue till you have filled it to the top of the Needle, always beating it down with two or three good ſtrokes of a Maliet, then fill in more almoſt to the top of the Mould, ram<g ref="char:EOLhyphen"/>ming it as before, but with your ſolid Rammer leaving only ſo much unfilled as that you may dou<g ref="char:EOLhyphen"/>ble down ſome of the Paper and ram it cloſe, ma<g ref="char:EOLhyphen"/>king a little Hole with a Bodkin to give fire to ſome Corn-powder (to give a report) put within that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aper as is left unſolded down, and then choak it, next prime it, as ſhall be ſhewn hereafter, and proceed to heading of it, which you may do ſeve<g ref="char:EOLhyphen"/>ral ways, either with Stars, Serpents, Crackers, or golden Rain: the compoſition for the making theſe hereafter follows. To place theſe on the Rocket, firſt make a thin Coffin of Paper, the inſide of it ſomewhat wid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r than the outſide of the Rocket, which you may fit by rouling it on the out-ſide of the Mould, and fitting it to the Rocket, then faſten it to the top of the Rocket, and ſtrew all the powder in it, having firſt made a ſmall Hole in the top of the Rocket to give fire to it: In this Coffin you may place ſhort Serpents with the Mouths downward made as before, or with Stars only, Crackers or golden Rain; having done this, take a piece of thin Paſtboard, and with a pair of Compaſſes make a round Circle in it, then divide it in two, and with the one half make a Cap taper<g ref="char:EOLhyphen"/>wiſe, fit to cover the Head, and with glew faſten it to it: Then provide a dry Oſier ſtick, about eight times the length of the Rocket, ſtraight, and flatted at the end, to this faſten the Rocket, tied at both
+<pb n="30" facs="tcp:36808:17"/>ends juſt in the choaking place, that ſo you may not looſen the compoſitoin within, then poiſe the ſtick, by ballancing it on your finger three or four Inches from the Mouth of the Rocket.</p>
+                     </div>
+                     <div type="section">
+                        <head>The Ingredients for Rockets for the Air of All Sizes.</head>
+                        <p>FOR Rockets which contain from one Ounce to four, to one pound of Powder-duſt, put two ounces of Charcole-duſt: For Rockets which hold from five ounces to ten, to one pound of Pow<g ref="char:EOLhyphen"/>der, put two ounces and a half of Charcoal-duſt; and for Rockets which hold from ten to ſixteen ounces, to one pound of Powder put three ounces of Charcoal-duſt; but be ſure that both your Pow<g ref="char:EOLhyphen"/>der-duſt in this and all other be well beaten, and finely ſifted, as likewiſe your Coal-duſt. If by try<g ref="char:EOLhyphen"/>ing your Compoſition you find it too ſtrong, you may mend it by adding a ſmall quantity of Coal<g ref="char:EOLhyphen"/>duſt to it; if too weak, then by adding a little Powder-duſt. My Advice is, to mix a pretty quan<g ref="char:EOLhyphen"/>tity together, that ſo by the trial of one Rocket you may be aſcertained of the reſt: for all Powder is not of one and the ſame ſtrength.</p>
+                     </div>
+                     <div type="section">
+                        <head>Priming for Rockets</head>
+                        <p>TAKE Cotten-wick (ſuch as the Chandlers uſe) and ſoak it in Oyl of Camphire, then take it out and roul it in Powder-duſt, then dry it, and keep it cloſe, otherwiſe the ſtrength of the Camphire will decay. The Compoſition for Stars will likewiſe fire them.</p>
+                     </div>
+                     <div type="section">
+                        <head>Compoſition for Stars, and firſt for thoſe of a Blue and Red Colour.</head>
+                        <p>POWDER mealed fine four ounces, Salt-pe<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er two ounces, Sulphur vivum ſix ounces, beat theſe very fine, and then mix them, adding thereto one ounce of Aqua-vitae, and a quarter of an
+<pb n="31" facs="tcp:36808:17"/>ounce of Oil of Spike. To make theſe up for uſe; take a Rouler about the bigneſs of an Arrow, and roul Paper on it, and paſte it cloſe, then fill it with the Compoſition before preſcribed, and beat it hard, then cut it into ſhort pieces half an Inch in length, dipping one end in Glew, and ſtrewing the other with Powder-duſt, it is then finiſhed, only let it dry before you uſe it.</p>
+                     </div>
+                     <div type="section">
+                        <head>A Compoſition of Stars of a very beautiful Colour, the eaſieſt, beſt, and ſureſt way, never till now made publick by any.</head>
+                        <p>SAlt-peter one ounce, Sulphur vivum one ounce, Powder-duſt one ounce, Camphire a quarter of an ounce, beat theſe very fine and mix them, after<g ref="char:EOLhyphen"/>wards make paſte of them with the Oil of Tur<g ref="char:EOLhyphen"/>pentine, and then make up little pieces about the bigneſs of a Pea, which roul in Powder-duſt, and let it dry. Of this ſort you may put two or three dozen at the Head of an ordinary Rocket, the charge and trouble of making is far leſs than any other way.</p>
+                     </div>
+                     <div type="section">
+                        <head>To make golden Rain.</head>
+                        <p>PRovide your ſelf with a good quantity of Gooſe Quills, cut them off at the end next the Fea<g ref="char:EOLhyphen"/>thers, then fill the Quills with the following Com<g ref="char:EOLhyphen"/>poſition, and they will make a very glorious ſhew. To one quarter of a pound of Powder duſt add half an ounce of Coal-duſt, and for uſe put the open end of the Quill downwards.</p>
+                     </div>
+                     <div type="section">
+                        <head>To make a Jack-in-a box.</head>
+                        <p>PRovide a Tin-box ſix Inches deep, with a ſocket made under the bottom of it to place it on a Staff, let it be of what bigneſs you pleaſe, in the bottom of it ſtrew ſome Corn-powder almoſt half an Inch thick, then fill it with Serpents, or Fiſgigs
+<pb n="32" facs="tcp:36808:18"/>placed with the Mouths downward, leaving a place in the midſt for a Cane to paſs through, which fill with a ſlow Compoſition; (that for Stars, or theſe following are very good) then put in the Cane, and faſten a cover of Paſtboard very cloſe over the Box, that ſo it may not fire before its appointed time.</p>
+                     </div>
+                     <div type="section">
+                        <head>A Compoſition that burns with a Flame ſlow and ſure.</head>
+                        <p>ROch-peter four ounces, Sulphur vivum two ounces, Camphire a quarter of an ounce, Powder-duſt one ounce. Meal theſe very fine and mix them, adding thereto one quarter of an ounce of Linſeed Oyl, and a quarter of an ounce of Oyl of Peter dropped in by degrees, and ſo wrought to a Paſte. To meal your Camphire, dip the Peſtle in Oyl of Almonds.</p>
+                     </div>
+                     <div type="section">
+                        <head>Another ſort of Mixture that burns ſparkling.</head>
+                        <p>POwder-duſt four ounces, Coal-duſt two oun<g ref="char:EOLhyphen"/>ces, this rammed cloſe in a Cane, renders the ſight very delightful to the Spectators.</p>
+                     </div>
+                     <div type="section">
+                        <head>A Compoſition for a White Fire, that laſteth long.</head>
+                        <p>SAlt-peter eight ounces, Powder-duſt two oun<g ref="char:EOLhyphen"/>ces, Sulphur vivum four ounces, Oyl of Peter one ounce, Camphire half an ounce; meal thoſe which are to be mealed, and incorporate them to<g ref="char:EOLhyphen"/>gether.</p>
+                     </div>
+                     <div type="section">
+                        <head>How to compoſe a Caſtle of Fire-works with ſmall Charge, that in the firing ſhall yield as much Variety, and give as much Content as any.</head>
+                        <p>FIRST provide an indifferent large Frame of Wood, four ſquare, with little round Tow<g ref="char:EOLhyphen"/>ers of Paſtboard at the Corners, the beſt ſize is eighteen Inches ſquare, and twelve Inches high, let the bottom be made firm to ſtand on any place.
+<pb n="33" facs="tcp:36808:18"/>and the Sides with Gates, (as your fancy ſhall di<g ref="char:EOLhyphen"/>rect) then faſten on the inſide three Ledges of Wood on each ſide about, each Ledge with a groof made on the top of it, then make ſo many Holes in the Frame of Wood, ſuitable to the Ledges, as you intend to have the Caſtle give reports: You may eaſily make eight to each Ledge, which con<g ref="char:EOLhyphen"/>tains ninety ſix reports, you may add more as you ſee cauſe; or at the top faſten many Crackers, which at the end will fire like a Volley of Shot: The manner of making theſe Reports ſhall be ſhewed hereafter; and to place them, firſt prime your Groof with a ſlow Compoſition, and from the uppermoſt Row to the ſecond put a Wick, primed as for Rockets, and ſo from the ſecond Row to the third, leaving ſome hanging forth at the Door to fire it, then put in your Reports the Mouths in<g ref="char:EOLhyphen"/>ward, fix them to your Groofs and cover it cloſe, afterwards fit a Board four ſquare to cover the top of the Caſtle, of each ſide half an Inch broader than the Caſtle: On the four Edges of it you may faſten Paſtboard cut Stone-work ways in manner of a Battlement, and at each corner, place a ſmall Jack-in-a-box with a long Cane in each of them filled with ſlow Compoſition, made as before; which Canes let be of the largeſt, as may burn all the time the Caſtle is firing: In the midſt of the Board on the top, place a Pin to put a Wheel on, made of thin Deal-board, five, ſix, or eight In<g ref="char:EOLhyphen"/>ches ſquare, proportionable to the length of the Rockets, which faſten to the Board by making Holes in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> tye them to it: On the top of this Wheel you may faſten little Statues of Babies, as Soldiers, Drummers, or the like; and as the Wheel turns, they will move about like Anticks, with much delight to the Spectators: And ſo have you finiſhed your Caſtle; to fire it, firſt fire the four
+<pb n="34" facs="tcp:36808:19"/>Canes in the four Boxes at the corners, then fire the Wheel at the top; and laſtly, fire the Cotten-wick at the Gate, and ſo the Reports will by degrees fire upwards, and in the end conclude with a Volley of Shot. If it be exactly made, it will continue a long ſpace with abundance of delight.</p>
+                     </div>
+                     <div type="section">
+                        <head>How to make Reports for a Caſtle.</head>
+                        <p>FIRST make a Coffin of Paper choaked as be<g ref="char:EOLhyphen"/>fore, of what ſize you pleaſe, then fill it about an Inch and a half with Corn-powder, ramming it cloſe; and at the end ram in a piece of Paper as you do to a Mosket, leaving the M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uth open, and then it is finiſhed: When you uſe them, prime the Mouth of it but a little</p>
+                     </div>
+                     <div type="section">
+                        <head>How to make Rockets for the Ground.</head>
+                        <p>FIRST provide a Rocket (ready finiſhed) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s for the fire, then put the Breech of it into <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Bladder, blow the Bladder up, and then faſten it at the choaking place, by tying it cloſe: When you fire it, throw it from you, and the force of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> when it comes to the Ground will make it rebo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> and ſo be in a continual Agitation.</p>
+                     </div>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="publishers_advertisement">
+                  <head>ADVERT<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>SEMENT.</head>
+                  <p>AN Engliſh Herbal: <hi>Or, a</hi> Diſcovery <hi>of the Phy<g ref="char:EOLhyphen"/>ſical Vertues of of Herbs in this Kingdom; what Planet governs each Herk, and how to gather them in their Planetary Hours; concerning ſome Hundred of Medicines made of</hi> Engliſh <hi>Herb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> whereby any Perſon may keep his B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dy in Health, or care himſelf when <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> for a ſmall Charge, with ſuch Hee<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> and Roots <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ally grow in</hi> England. <hi>To which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s added, The</hi> Way to Health and Long Life, <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> a Diſcourſe of Temperance, ſhewing how every Man an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Woman may be their own Doctor. Alſo a ſure Way to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> Bees <hi>and</hi> Fruit-Trees, <hi>and to keep</hi> Sheep <hi>and</hi> Horſes <hi>free from all Diſeaſes.</hi>
+                  </p>
+                  <p>
+                     <hi>Sold at the</hi> Ring <hi>in</hi> Little-Britain. <hi>Price</hi> 1 <abbr>s.</abbr> 6 <abbr>d.</abbr>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:36808:19"/>
+                  <head>THE ART<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> GARDENING: <hi>Shewing the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Times for ordering Cattle: Alſo Orchards, Gardens, Hop-Gardens, Flower-Gardens, and Bees, throughout the Year.</hi>
+                  </head>
+                  <div type="part">
+                     <p>GARDENS ought to be in a free open Air to the Eaſt and South, but South Eaſt it beſt, and the North, defended by tall Trees, by the Houſe, or indeed by both, which is better than Hills, for Hills to Trees are not ſo good, becauſe they give too great a Reflection of Heat in Summer, and likewiſe hin<g ref="char:EOLhyphen"/>der the cool ſerene Air that often comes from thence: Tall Trees break the Wind and fierce Air, that in Spring and Winter damage the moſt delicate Plants and Flowers, affording moſt, pleaſant, ſweet Air, and Shade in hot Weather.</p>
+                     <p>As to your Ground, the Quality thereof ought to be inquir'd into; a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d it's a great Happineſs to en<g ref="char:EOLhyphen"/>joy good Ground, for it will yield more than that which is mended at great Coſt and Charge. The Quality of your Ground it to be regarded, as whe<g ref="char:EOLhyphen"/>ther it be ſoft or ſtrong, light, dry, or moiſt; and how to chuſe proper Trees to plant it withal; alſo what ſort is proper to me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d thoſe that grow on dry warm Ground, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> make them bear the beſt ſorts of Fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>it. Thoſe that gro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> on moiſt Ground, produce large Fruit, tho' not not ſo pleaſant, nor well-taſted as the forme; as you may obſerve in we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> or dry Years, all La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d proper for Wheat, Barley, Rye, Beans, Peas, <hi>&amp;c.</hi> are ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dly for O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds; the moſt improper is extream hot and dry Sands; and on the contrary, Grounds that are very wet and cold.</p>
+                     <pb n="2" facs="tcp:36808:20"/>
+                     <p>In Ground that is moiſt, don't dig your Holes too deep, but heighten your Ground, and be careful; before you plant Trees you may cut the Roots that ſhoot down, more eſpecially the Pin-roots, or elſe you muſt put Bruſhes underneath, that the Water ſhoot off, and the Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t not ſtrike too deep into the cold Earth. The upper Ground is always the beſt, for what is deep in the Ground, has not felt the He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t of the Sun, nor received the ſweet Moiſture of Rain or Dew.</p>
+                     <p>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> for Soils proper, and all other Matters requi<g ref="char:EOLhyphen"/>ſite to be known, I refer you to peruſe <hi>Meager'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Com<g ref="char:EOLhyphen"/>pleat Engliſh Gardener,</hi> adorn'd with 24 Copper Cuts of Garden-Plars, which is the moſt plain and eaſie Book extant, that I know of. It's ſold at the <hi>Ring</hi> in <hi>Little Britain</hi> for 4 <abbr>
+                           <hi>s.</hi>
+                        </abbr> 6 <abbr>
+                           <hi>d.</hi>
+                        </abbr>
+                     </p>
+                     <p>The Miſcarriages and Diſappointments that are met with in Planting, proceed, Firſt, From the wan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of Knowledge, which is the beſt and propereſt ſorts of Plants for Fruit, and often uſing the worſt. Second<g ref="char:EOLhyphen"/>ly, For want of their being well order'd and manag<g ref="char:EOLhyphen"/>ged after they are planted. Thirdly, Some Seaſons have of late prov'd bad, and ſpoil'd Fruit, tho' the greateſt Care and Skill have been made uſe of.</p>
+                     <p>To remedy theſe Inconveniencies, endeavour to find out ſuch Gardeners as will deal faithfully by you, and ſuch as have Judgment to know the vaſt Difference of Fruit, for there are ſeveral ſorts of Fruit, which ſome call by one N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d ſome by another: and Miſtakes of this Kind of<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en cauſe a quite different ſort to be ſet, not proper to your Purpoſe, being neither proper for your Soul not Ex<g ref="char:EOLhyphen"/>poſure, and ſeldom or never comes to M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ry: Nay, tho' you have the beſt, if the Soil and Expo<g ref="char:EOLhyphen"/>ſure be not proper, they may grow, but will not ar<g ref="char:EOLhyphen"/>rive at that Perfection or M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ty which th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e do that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wn or planted in a proper a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d agreeable Soil; heref<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re et your Gardener he acquai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ted w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th the Aſpect <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f the Wall you deſign to plan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, as alſo to the Height and Extent of it, and what ſort
+<pb n="3" facs="tcp:36808:20"/>of Earth it ſtands upon, whether hot and dry, or cold and moiſt, that he may regulate and furniſh the whole Plantation with Trees proper and neceſſary.</p>
+                     <p>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e well ordering or man<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ging of Trees is to be chiefly regarded; for if you plant againſt an old W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll, where other Trees have dy'd the Year before, and put 'em in juſt where the others were, it is g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eat Odds but your Expectation is fruſtrated. Or if it be a new Wall, if the E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th 'tis ſet in be not good and proper, tho' you fill up your Borders with good Earth, it will return back again, and ſo your Fruit will be ſmall, and have little Taſte or Goodneſs, Therefore uſe a proper Depth and Width, with good Earth, and let your Fruit-Trees be carefully Plantedand headed in their proper Times and Seaſons, and like<g ref="char:EOLhyphen"/>wiſe water'd in Summer, with the Borders clear'd from Weeds: Let nothing be ſown by them, as Beans, Peaſe, <hi>&amp;c.</hi> nor yet any Flowers, for all theſe ſuck away the Nouriſhment from them; and be ſure let all your Fruit Trees be well pruned, and the Fruit carefully pick'd and look'd after, or you'll ne<g ref="char:EOLhyphen"/>ver obtain what you expect.</p>
+                  </div>
+                  <div type="part">
+                     <head>As to the moſt proper Seaſons.</head>
+                     <p>When you have uſed a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l your Endeavours to plant and graft according to the Nature of your Ground, the various Seaſons (either too much Rain, or too much Cold) give a quite different turn to your Fruit: ſometimes 'twill prove ſmall, ſometimes watry, and of little or no value; nay, you would ſcarce be<g ref="char:EOLhyphen"/>lieve the ſame Trees could produce ſuch different Fruit: Therefore if when you have uſed the pro<g ref="char:EOLhyphen"/>per Means, your Expectation is fruſtrated, what muſt be the Fate of thoſe who are careleſs, and per<g ref="char:EOLhyphen"/>haps plant Pears, Apricocks, Peaches, <hi>&amp;c.</hi> not re<g ref="char:EOLhyphen"/>garding the ſeveral Aſpects againſt the Wall which is requir'd, as, when they ſhould plant againſt a South, they do't againſt a North, or North-Eaſt Wall, <hi>&amp;c.</hi> Likewiſe obſerve in Trees, you are to plant againſt a Wall, you do not plant 'em for D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arſs, for then they will not come to their due Perfection.</p>
+                     <pb n="4" facs="tcp:36808:21"/>
+                     <p>Great Allowances muſt be made for the Fickle<g ref="char:EOLhyphen"/>neſs of Seaſons, the Diverſity of Soils and Climates, (which are almoſt numberleſs) and to the Nature of the Trees and Stock, and to the way that Trees grow to the greateſt Perfection; theſe are Things that require mature Conſideration, and a quick Apprehenſion, to balance the Opinions of proper Judges.</p>
+                     <p>'Tis a great Matter to know the Nature of the ſeveral Soils, their Infirmities, and their proper Remedies, with the Applications requir'd to invi<g ref="char:EOLhyphen"/>gorate exhauſted Mold, ſweeten the foul and tain<g ref="char:EOLhyphen"/>ted, reduce the ſowre, harſh, ſtubborn, dry, and overmoiſt, and dilated Earth to its genuine Tem<g ref="char:EOLhyphen"/>per and Conſtitution; and what Scituations and Aſpects are moſt adapt to the ſeveral ſorts of dwarf, ſtandard, and other Fruit-trees.</p>
+                     <p>The requiſite Qualifications of a good Gardener are ſuch as theſe, <hi>viz.</hi> He ſhould be a middle aged Man, vigorous and active, one of Experience and a large Capacity. Diligent, Honeſt, and Good-na<g ref="char:EOLhyphen"/>tur'd, which are Qualifications neceſſary for any Perſon.</p>
+                     <p>As for the Expoſure of Gardens, if they be of a ſtrong Earth that is cold, to be expoſed to the South is beſt; if light and hot, then the Eaſt is counted beſt; the Nor hern Aſpect in <hi>England</hi> is beſt for Baking Fruit; the Eaſtern Expoſure is ſub<g ref="char:EOLhyphen"/>ject to the North-Eaſt Wind which withers the Leaves and new Shoots; beſides Eaſtern Wall-Fruit have little benefit of the Rain which gene<g ref="char:EOLhyphen"/>rally comes from the Weſt; and as the Eaſtern Expoſure is ſubject to North-Eaſt Winds, ſo the Weſtern ſuffers by North-Weſt Winds in Spring, and the Fruit in Autumn is often blown down by them; and as all Expoſures have their Advanta<g ref="char:EOLhyphen"/>ges and Diſadvantages, it requires ſome conſide<g ref="char:EOLhyphen"/>rable Prudence and Skill to prevent the latter.</p>
+                     <trailer>FINIS.</trailer>
+                  </div>
+                  <div n="calendar" type="part">
+                     <pb n="5" facs="tcp:36808:21"/>
+                     <head>THE GARDENER'S <hi>Monthly Calendar.</hi>
+                     </head>
+                     <div n="january" type="month">
+                        <head>In <hi>JANUARY,</hi>
+                        </head>
+                        <p>PLOUGH up your Peaſe Ground, or fallow it; water Meadows and Paſture, drain arrable Land, deſign'd for Peaſe, Barley or Oats, wean Calves, remove Bees, dung Paſtures, prune Fruit<g ref="char:EOLhyphen"/>trees and Vines, and other Trees, and bare their Roots; plant Timber Trees and Coppice Wood, ſet Quick-ſets, cut away Ant-hills, gather your Stones, take care of Ewes and Lambs, geld Cattle, keep your ſelf warm, drink a Glaſs of good White wine faſting, ſet Beans and Peaſe if mild Weather, and begin to graft and gather Cions for grafting, ſow Coll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>flowers, make hot Beds, ſow Sallads, cover the choice Flowers and Plants, deſtroy Vermine, and Bull-finches and Sparrows, that ſpoil the Heads of Fruit-trees, by Lime-twigs, Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oting, <hi>&amp;c.</hi> your Bee<g ref="char:EOLhyphen"/>hives turn up and ſprinkle with Wort, dig weedy Hop-Gardens, bleed not the 1ſt, 2d, 10th, 15th, or 20th, except the Sign be good, cleanſe Trees of Moſs, by findging it off with a handful of Wheat or Rye Straw, preſerve Gilliflowers and Auricula's from too much Wet and Snow keep the Conſer<g ref="char:EOLhyphen"/>vatory cloſe where the Greens are houſed. If it freeze hard, put ſome lighted Charcoal in the midſt of the Room, let in Sun ſhine at Noon, and ſhut it cloſe again as it declines the Door.</p>
+                     </div>
+                     <div n="february" type="month">
+                        <head>
+                           <hi>In</hi> FEBRUARY.</head>
+                        <p>SET or ſow all ſorts of Beans, Peaſe, and other Pulſe, dung your Plough and Paſture Ground, ſpreading it before the Plough, the ſtiffer your
+<pb n="6" facs="tcp:36808:22"/>Ground, begin your arrable Land the ſooner, take heed of Cold, plant Quick-ſets, ſet Poplers, Al<g ref="char:EOLhyphen"/>ders, Willows, and other Aquaticks, ſow Muſtard and Hemp-ſeed, if a mild Spring, bleed not except the Sign be good, on the 4th, 6th, or 8th Day; cover the Roots of Trees, and cleanſe from Moſs and Caterpillars, ſet Aſparagus, Raddiſh, Parſnips, Carriots, Onions, Colliflowers, Garlick, plant Cab<g ref="char:EOLhyphen"/>bages, Potatoes, Parſley, Spinage, and other hardy Pot herbs; deſtroy Vermine and Bullſinches, pick up Snails, plant Hops and dreſs them, half open the Paſſage for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ees, and remove them, ſtow Fiſh<g ref="char:EOLhyphen"/>ponds, water Oranges and Lemons with Water wherein Sheeps-Dung has been ſteeped two or three Days in the Air or Sun; but let it not touch the Leaves, for it will deſtroy them.</p>
+                     </div>
+                     <div n="march" type="month">
+                        <head>
+                           <hi>In</hi> MARCH.</head>
+                        <p>ADry <hi>March</hi> generally produces Plenty, ſow Turneps, Beans, Barley, lop, graft, and re<g ref="char:EOLhyphen"/>move Trees and Plants, take Cattle out of the Marſhes and Meadows you intend to mow, rowl Wheat, if the Weather prove dry, make an end of ſowing all ſorts of Pulſe, brew your beſt Beer, and raiſe the beſt Brood of Poultry, ſet Oſiers and Wil<g ref="char:EOLhyphen"/>lows, <hi>&amp;c.</hi> ſow <hi>March</hi> Rye, ſow Hemp and Flax, if temperate Weather, alſo Clover and St Foin, and other French Graſſes, kill Moles, ſow white Peaſe, graft all ſort of Fruit-trees, ſet Sage, Roſemary, Lavend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> and Time, ſow Endive, Succory, Leeks, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>addi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>, Beets, Farſnips: Skirrits, Parſley, Sorrel, B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gloſs, Borage, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hervil, Lettice, Onions, Gar<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ck Turneps, Peaſe, Carriots, Cabbages, Creſſes, Fennel, Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>joram, <hi>&amp;c.</hi> cover the Roots of Trees laid bare, cover Muskmelions Plants on hot Beds, with Beer-glaſſes 'till you remove them, dreſs up and firing your Strawberry-beds, ſow Pinks, Car<g ref="char:EOLhyphen"/>nations, <hi>&amp;c.</hi> plant all Garden Herbs and Flowers that have fibrous Roots, plant Hops and dreſs them, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> now fit, keep them Morning and Night cloſe, if bad Weather you may yet remove them,
+<pb n="7" facs="tcp:36808:22"/>ſtake and bind up the weakeſt Plants againſt the Wind, turn your Fruit in the Rooms where they lie, eat Reaſons and Figs, and Sweetmeats.</p>
+                     </div>
+                     <div n="april" type="month">
+                        <head>APRIL.</head>
+                        <p>A Dry <hi>April</hi> is good to fallow Ground in, and a dry Seaſon prevents VVeeds growing among Barley; purge and bleed; lop Aſhes, and ſet VVil<g ref="char:EOLhyphen"/>lows; pick up Stones, ſow Hemp and Flax, ſet Oſiers, VVillows, and other Aquaticks, cleanſe Ditches, ſow Clover, Saint-Foin, and all French Graſſes and Hays, ſow Marjoram, Hyſop, Baſill, Thime, VVinter-ſavory, Scurvey-graſs, Raddiſh, Purſley, Lettuce, Marrigolds, Carnations, <hi>&amp;c.</hi> ſet ſlips of Artichoaks, Lavender, Thime, Roſemary, ſet French Beans, remove Shrubs, and ſlip them after Showers, gather up VVorms and Snails, ſow Flowers that come of See<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s, continue Hot Beds, for Exoticks that arrive not to Perfection without them, bring out of the Conſervatory the tender Plants, except the Orange tree, which may remain till <hi>May,</hi> put Tiles over your beſt Tulips, plant Hops, and pole them, and bind them to the Poles, open the Doors of Beehives, for now they hatch, and be careful of them.</p>
+                     </div>
+                     <div n="may" type="month">
+                        <head>MAY.</head>
+                        <p>ANgling is now in its Splendour, wean Lambs, kill Ivy, feed your rank Corn with Sheep, or mow it, ſow Buck-wheat, late<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Peaſe Flax and Hemp may yet be ſown, fallow your ſtiff Clays, ſtub the Roots of Broom, Fern, Goſs, burn Bait, weed Quick-ſets, drain Fens and wet Grounds, carry out Soil and Compoſt, turn out Calves to Graſs, mow Clover Graſs, and Saint Foin, and other French Graſſes, take care of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>heep if wet VVeather, leaſt the Rot take them, plant all ſorts of VV<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nter Greens, ſet Sage and Roſemary, tranſ<g ref="char:EOLhyphen"/>plant Amaranths, <hi>Fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ffric<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nus, Naſturtium-Indi<g ref="char:EOLhyphen"/>cum, Mirabilia Peruviana, &amp;c</hi> 
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> your Hot-Beds with good, rich So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l, as much as may be in the Sun, bring out your Oranges and Limons, and
+<pb n="8" facs="tcp:36808:23"/>other Greens, give all your Houſhold-plants freſh Earth at the top, in place of ſome of the old taken away, a Hand's Depth, with a Fork looſen the reſt, without hurting the Roots, bind Hops to their Poles, and make up the Hills after Rain, watch Bees ready to ſwarm, cover no longer your Cucum<g ref="char:EOLhyphen"/>bers and Mellons, except with Glaſſes, ſow Pur<g ref="char:EOLhyphen"/>ſlain and Lettuce.</p>
+                     </div>
+                     <div n="june" type="month">
+                        <head>JUNE.</head>
+                        <p>IN this Month ſome mow Hay, ſhear Sheep and waſh them, caſt Mud out of Ditches, <hi>&amp;c</hi> raiſe Swine to breed fallow VVheat Land, manure your Ground, ſow Rape and Cole-ſeed, and Tur<g ref="char:EOLhyphen"/>nip-ſeed, weed Corn, take care of Sheep if wet, ſet Garden-beans for a latter Crop, ſet Roſemary, Thyme, Marjoram and Hyſop, clip the Branches of Vines, begin to inoculate, water Trees later planted, lay moiſt VVeed at the Roots of them deſtroy Ants and other Vermine, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nails, VVorms <hi>&amp;c.</hi> ſet Saff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>on, plant Gilliflowers, ſow Lettuce, and other ſalleting Herbs, gather Seeds that are ripe, tranſplant bulbous Roots plant Myrrh, dig Ground for a Hop Garden, and bind ſuch Hops as the VVind hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>haken, to the Poles, mind your Bees, that now ſwarm, take up Anemonies, Ra<g ref="char:EOLhyphen"/>nunculas, Tulip-roots, keeping them from mould<g ref="char:EOLhyphen"/>ing till planted again, keep Seed of <hi>July</hi> Flowers, that are of good Kind, leting them have but few Layers to give Nouriſhment to, keep from Vene<g ref="char:EOLhyphen"/>ry, and bleed not, except thou haſt great need, drink VVater, and ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> temperately.</p>
+                     </div>
+                     <div n="july" type="month">
+                        <head>JULY.</head>
+                        <p>NOW mow your Hay, and mow your head Lands, graft Apricocks, fallow your Land that wants it, gather Hemp and Flax that is early, reap Corn that is ripe, and manure Ground, ſow Turnip-ſeed, inoculate Roſes and choice Fruit wa<g ref="char:EOLhyphen"/>ter young Plants <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rees and Layers, prune Apri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cocks and Peaches, let olitory Herbs run to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eed, ſow Lettiuce, Radiſh and Chervil, graft and inoculate Jeſſamin
+<pb n="9" facs="tcp:36808:23"/>and Oranges, and water Hops if very dry Weather, if it prove moiſt, renew and cover the Hill ſtill with freſh Mould. Bees that ſwarm now are worth little, and beſt to prevent them if you can
+<q>
+                              <l>
+                                 <hi>A Swarm of Bees in</hi> May, <hi>is worth a Load of Hay,</hi>
+                              </l>
+                              <l>
+                                 <hi>A Swarm of Bees in</hi> June, <hi>is worth a Crown.</hi>
+                              </l>
+                              <l>
+                                 <hi>A Swarm of Bees in</hi> July, <hi>is not worth a Fly.</hi>
+                              </l>
+                           </q> Clip Box out of order after Rain, ſow Anemony<g ref="char:EOLhyphen"/>ſeeds in fine ſifted rich Earth, in Beds or Boxes, gather early Cyclamen-ſeeds, and ſow it in Pots preſently, keep from Venery, and bleed not with<g ref="char:EOLhyphen"/>out great need, the 13th or 15th is ſaid to be dan<g ref="char:EOLhyphen"/>gerous.</p>
+                     </div>
+                     <div n="august" type="month">
+                        <head>AUGUST.</head>
+                        <p>LAY Compoſt and Soil on Barley and Wheat Land, you may yet lie fallow, provide good Seed, and well picked againſt Seed-time, ſatten Ewes and Cows, get in your Harveſt about the end of the Month, mow Clover, Saint-Foin, and other French Graſſes, and geld Lambs, forbear all manner of Worts, and Meats and Drink with Spices, pull up young Suckers, inoculate early, prune ſuperfluous Branches and Shoots of the ſecond Spring, clip Roſes that have done bearing, ſow Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>bages and Colliflow<g ref="char:EOLhyphen"/>ers for Winte-plants and Scurvey-graſs, Angelica, Endive, Onions, Spinage, Turnips, Marygolds, Parſnips, Carrots, Lettuce, Corn ſallad, and ſuch Plants as will endure Winter, pull up Garlick and ripe Onions, gather olitory Seeds, gather Seeds of Shrubs that are ripe, now Orange-trees are budding, inoculate therefore at the beginning of the Month, take up Bulbous-roots and Lillies, <hi>&amp;c.</hi> dry and lay them up, plant ſome Anemony-roots, earth your Pots of Auricula's, tranſplant and divide their Roots in<g ref="char:EOLhyphen"/>to a rich, lightſome Earth, prop up your Hop-poles the Wind has blown down, at the end of the Month gather Hops, likewiſe take Bees, deſtroy Waſps and other Vermine, and ſtreighten the Paſſage to ſecure Bees from Robbers, ſow Larkſeels, Colum<g ref="char:EOLhyphen"/>bines, Holly-hocks, <hi>&amp;c.</hi> remove about <hi>Bartholomew-Tide,</hi>
+                           <pb n="10" facs="tcp:36808:24"/>Perennial Greens, Jeſſamines, Pomegranates, Roſes, and what is obnoxious to Froſts.</p>
+                     </div>
+                     <div n="september" type="month">
+                        <head>SEPTEMBER</head>
+                        <p>GELD Cattle, <hi>&amp;c.</hi> ſow Ponds, put up Boars in the Stye, put Swine into the Woods, amend your Fences, eat ripe Fruit, bleed in the 17th or 18th. for Phrenſy, Dropſy, or Falling-Evil, and it preſerves thee that Year, beat out Hemp-ſeed and water Hemp, gather Maſt, manure your Wheat-Lands before the Plough, make Cyder and Perry, gather your Winter-Fruit that is ripe, ſow Lettuce, Raddiſhes, Spinage, Colliflowers, Cabbages and Winter-herbs and Roots, plant Strawberries out of the Woods, earth up Winter-plants, Sallad herbs, take up Bees, and ſtraiten the Entrance of their Hives, alſo you may remove them, ſow Turnips, Onions tranſplant Artichoaks, and plant Tulips and other bulbous Roots, tranſplant fibrous Roots, gather Saffron, gather and dry Hops, cleanſe the Poles of the Hawm, and lay up the Poles, put your choice Plants in the Conſervatory, and ſhelter thoſe that are tender, Myrtles w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll endure near a Month longer, ſet Plants that will not endure the Houſe, into the Earth, the Pots beneath the Surface two or three <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nches, covering them with Glaſſes, cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ath<g ref="char:EOLhyphen"/>ed with ſweet and dry Moſs, on warm Days, and Sunny Showers, uncover them, make thin Turnips when they grow too thick.</p>
+                     </div>
+                     <div n="october" type="month">
+                        <head>OCTOBER</head>
+                        <p>BARLEY Land lay as dry as can be, Seed<g ref="char:EOLhyphen"/>time continues for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, water the Furrow, and drain Corn Land new ſown, ſow Aco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ns or Nuts, Maſter or Berries for Timber Coppice and Hedges, ſow eaſe in fat warm Land and laſh Quick ſets, wean Foles, fell Sheep you will not VVinter, mind your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>alting ſcower Ditches and Ponds, uſe Phyſick moderately, and Recreation, feed on good Dier, tranſplant Fruit-trees, having loſt their Leaves trench the ſtiffer Grounds, Or<g ref="char:EOLhyphen"/>chard<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> or Gardening, ſet Fruit-ſtones three Inches
+<pb n="11" facs="tcp:36808:24"/>deep, the ſharp end upermoſt, and cover them with Fern or Straw, plant Hops, and pack up thoſe that are dry, remove Bees, houſe your Hiacinths, Tuberous, ſet choice Tulips, plaat Anemonies and Ranuncula's, and cover them from the Froſt, and give them Air in temperate VVeather, bury all ſorts of bulbous Roots, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ow Carpet-works and Ca<g ref="char:EOLhyphen"/>momile.</p>
+                     </div>
+                     <div n="november" type="month">
+                        <head>NOVEMBER.</head>
+                        <p>ON burn baited Lands you may ſtill ſow VVheat, kill Poultry and Swine, fell Cop<g ref="char:EOLhyphen"/>pice wood, and plant Timber and Fruit-trees, bunch Flax and Hemp, thraſh out VVheat till <hi>March,</hi> leaſt it prove muſty, lay Stuff and Straw in moiſt Places for to rot for Dung, and lay Dung on Heaps, deſtroy Ant-hills, and drown Meadows that are fed low, furniſh your Nurſery with Stocks for grafting, turn Mellon Ground, and mix it with rich Earth, that of the laſt Year's Hot-beds, and lay it in the Spring in Ridges, trench and fit Ground for Artichoaks, plant Trees that are Standards, or fit for the VVall, c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>op Aſparagus, and cover it with long Dung, and make Trees to plant in the Spring, ſet and ſow early Peaſe and Beans, lay in Cellars for to tranſplant in the Spring Colliflowers, Cabbages, Turnips, Parſnips and Carrots, plant fibrous Roots, ſow Auricula-ſeeds, cover Ranuncu<g ref="char:EOLhyphen"/>la's that begin to peep, plant fibrous Roots, Roſes, Alt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ea, Fruitex, Lilax, Syringays, Peonies <hi>&amp;c.</hi> if the Weather is hard, quite encloſe your perennial Greens and tender Plants, <hi>&amp;c.</hi> preſerve your Con<g ref="char:EOLhyphen"/>ſervatory from ſharp Winds, if the Plants are very dry, and it does not freeze, refreſh them ſparingly with qualified Water, <hi>i. e.</hi> Water mingled with Cow-dung, and a little Sheeps-dung; if it freezes in the Green-houſe, keep a finall Charcoal Fire in the middle of it, if a fair Day, and Sun ſhine, ſhow them the Light, and encloſe them again at the Suns going off water not Sedums nor Aloes all VVin<g ref="char:EOLhyphen"/>ter, dung Hop-gardens, and mix it with ſtore of
+<pb n="12" facs="tcp:36808:25" rendition="simple:additions"/>Earth to rot againſt Spring, ſtop your Bees cloſe, or Houſe them till <hi>March.</hi>
+                        </p>
+                     </div>
+                     <div n="december" type="month">
+                        <head>DECEMBER.</head>
+                        <p>HOUSE Cattle, cut Timber, fell Coppice-wood, fatten Swi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e, bleed Cattle, plant all Trees that ſhed their Leaves that are not too tender, plough Land for Beans, overflow Meadows, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d drain your Corn-fields, plant Vines and Stocks for grafting, prune and nail VVall-fruit, and Standard-fruits, or you may defer them ſix or eight VVeeks longer, ſet all ſorts of Stones and Kerne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s, kill Vermine preſerve Anemonies from Rain and Froſt, and keep your Conſervatory well matted and warm; if open VVea<g ref="char:EOLhyphen"/>ther, ſet Ranuncula's in a Bed of rotten Thatch or Straw, with good Moſs above and below, ſet Ane<g ref="char:EOLhyphen"/>monies in rich lomy Earth, dig a weedy Hop garden, and Dung it, mixing it with Earth, feed weak Stocks of Bees, bleed not, except great need, ſleep from the Fire ſide.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>
+                        <hi>To make a Liquour of more Value than Tea or Coffee</hi> &amp;c.</head>
+                     <p>TAKE a quart of Conduit, Spring, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> River<g ref="char:EOLhyphen"/>water; boil it 6 or 7 min then put into it whilſt boiling hot, about 25 or 30 Leaves of Sage of Virtue <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>red, or common Sage, and about half the quantity of Roſemary with about 12, 15, or 20 Grains of Saffron; let them boil in the Liquour about 6 or 7 min cloſe ſtopt, then you may pour it off, and drink what quantity of it you think fit, as a quarter or half a Pint; ſweeten it with white Sugar, and you may eat Bread and Butter with it if you pleaſe. This Liquor far exceeds Coffee, Tea <hi>&amp;c.</hi> and is good againſt Foiſon, reſiſting it, all Infections and peſti<g ref="char:EOLhyphen"/>lential Air, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>iſom Stinks; it comforts the Spi<g ref="char:EOLhyphen"/>rits, ſtrengthens the Brain Heart and Nerves breeds good Blood, expels <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll Humours, if they off<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd the Stomach and Body. It is in ſhort, a general Preſer<g ref="char:EOLhyphen"/>vative againſt all Diſtempers, eſpecially thoſe reign<g ref="char:EOLhyphen"/>ing ones of <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gue</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d <hi>curvey.</hi> This I recommend for the Good of my Country, without Fee or Re<g ref="char:EOLhyphen"/>ward.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
